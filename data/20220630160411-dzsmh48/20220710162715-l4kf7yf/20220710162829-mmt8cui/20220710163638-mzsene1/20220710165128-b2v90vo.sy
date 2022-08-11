@@ -1,0 +1,74 @@
+{
+	"ID": "20220710165128-b2v90vo",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20220710165128-b2v90vo",
+		"title": "可塑变形性",
+		"updated": "20220713093025"
+	},
+	"Children": [
+		{
+			"ID": "20220710165128-t7s7b2b",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220710165128-t7s7b2b",
+				"updated": "20220710165145"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "Plastic Deformation"
+				}
+			]
+		},
+		{
+			"ID": "20220710165150-qmrb10m",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220710165150-qmrb10m",
+				"updated": "20220710165234"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "是指正常红细胞在外力作用下具有变形的能力。当外力撤销后，变形的红细胞又可恢复其正常的双凹圆碟形。"
+				}
+			]
+		},
+		{
+			"ID": "20220710165248-fl0em6c",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220710165248-fl0em6c",
+				"updated": "20220710165329"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "正常红细胞的双凹圆碟形的几何形状是影响可塑变形性的最重要因素。"
+				}
+			]
+		},
+		{
+			"ID": "20220710165335-fqxrh9j",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220710165335-fqxrh9j",
+				"updated": "20220710165603"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "遗传性球形红细胞增多症的患者，由于红细胞某些膜蛋白的缺陷，膜脂质逐渐丢失而导致膜表面积降低，但体积并未减少，最终变为球形，其表面积与体积之比降低，变形能力减弱，难以通过微小的脾窦内皮细胞裂隙，因此容易滞留于脾和骨髓中而被巨噬细胞所吞噬，从而使红细胞的平均寿命缩短。"
+				}
+			]
+		},
+		{
+			"ID": "20220713093025-vzrbk26",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220713093025-vzrbk26"
+			}
+		}
+	]
+}

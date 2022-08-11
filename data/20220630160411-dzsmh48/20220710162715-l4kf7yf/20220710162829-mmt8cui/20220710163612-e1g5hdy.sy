@@ -1,0 +1,226 @@
+{
+	"ID": "20220710163612-e1g5hdy",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20220710163612-e1g5hdy",
+		"title": "血浆渗透压",
+		"updated": "20220710164851"
+	},
+	"Children": [
+		{
+			"ID": "20220710163612-i44i7w1",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220710163612-i44i7w1",
+				"updated": "20220710164716"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "晶体渗透压：由晶体物质所形成的渗透压，80%来自Na"
+				},
+				{
+					"Type": "NodeSup",
+					"Data": "sup",
+					"Children": [
+						{
+							"Type": "NodeSupOpenMarker"
+						},
+						{
+							"Type": "NodeText",
+							"Data": "+"
+						},
+						{
+							"Type": "NodeSupCloseMarker"
+						}
+					]
+				},
+				{
+					"Type": "NodeText",
+					"Data": "和Cl"
+				},
+				{
+					"Type": "NodeSup",
+					"Data": "sup",
+					"Children": [
+						{
+							"Type": "NodeSupOpenMarker"
+						},
+						{
+							"Type": "NodeText",
+							"Data": "-"
+						},
+						{
+							"Type": "NodeSupCloseMarker"
+						}
+					]
+				},
+				{
+					"Type": "NodeText",
+					"Data": "。影响细胞内、外水的平衡和细胞的正常体积"
+				}
+			]
+		},
+		{
+			"ID": "20220710164401-vdfwo5d",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220710164401-vdfwo5d",
+				"updated": "20220710164749"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "胶体渗透压：由蛋白质所形成的渗透压，80%来自白蛋白。调节血管内、外谁的平衡和维持正常的血浆容量"
+				}
+			]
+		},
+		{
+			"ID": "20220710164436-nq38mmg",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220710164436-nq38mmg",
+				"updated": "20220710164454"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "正常情况下，血浆渗透压与红细胞内的渗透压相等"
+				}
+			]
+		},
+		{
+			"ID": "20220710164504-cx8qmbr",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220710164504-cx8qmbr",
+				"updated": "20220710164519"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "等渗溶液：渗透压=血浆渗透压"
+				}
+			]
+		},
+		{
+			"ID": "20220710164603-q10ajtu",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20220710164603-q10ajtu",
+				"updated": "20220710164634"
+			},
+			"Children": [
+				{
+					"ID": "20220710164603-fhk4m4u",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20220710164603-fhk4m4u",
+						"updated": "20220710164634"
+					},
+					"Children": [
+						{
+							"ID": "20220710164603-wxiien0",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20220710164603-wxiien0",
+								"updated": "20220710164611"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "血浆总渗透压："
+								}
+							]
+						},
+						{
+							"ID": "20220710164616-5xsyt4e",
+							"Type": "NodeList",
+							"ListData": {},
+							"Properties": {
+								"id": "20220710164616-5xsyt4e",
+								"updated": "20220710164634"
+							},
+							"Children": [
+								{
+									"ID": "20220710164615-u4ot0gy",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20220710164615-u4ot0gy"
+									},
+									"Children": [
+										{
+											"ID": "20220710164615-tmn7s7t",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20220710164615-tmn7s7t",
+												"updated": "20220710164621"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "晶体渗透压 99.5%"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20220710164623-ch1sb2j",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20220710164623-ch1sb2j",
+										"updated": "20220710164634"
+									},
+									"Children": [
+										{
+											"ID": "20220710164623-86r15g1",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20220710164623-86r15g1",
+												"updated": "20220710164634"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "胶体渗透压 0.5%"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20220710164810-6c5infx",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220710164810-6c5infx",
+				"updated": "20220710164851"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "肝肾疾病导致血浆蛋白降低时，可因血浆胶体渗透压降低而导致组织水肿。"
+				}
+			]
+		}
+	]
+}

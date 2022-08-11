@@ -1,0 +1,233 @@
+{
+	"ID": "20220716152743-7y9v2rq",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20220716152743-7y9v2rq",
+		"title": "促红细胞生成素",
+		"updated": "20220716153257"
+	},
+	"Children": [
+		{
+			"ID": "20220716152854-bexvv6k",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220716152854-bexvv6k"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "erythropoietin"
+				}
+			]
+		},
+		{
+			"ID": "20220716152800-5ed2k6s",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220716152800-5ed2k6s",
+				"updated": "20220716152848"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "作用："
+				}
+			]
+		},
+		{
+			"ID": "20220716152824-sfsq25s",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20220716152824-sfsq25s",
+				"updated": "20220716153026"
+			},
+			"Children": [
+				{
+					"ID": "20220716152852-dcx3pdw",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20220716152852-dcx3pdw",
+						"updated": "20220716152852"
+					},
+					"Children": [
+						{
+							"ID": "20220716152852-wdrzgtc",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20220716152852-wdrzgtc",
+								"updated": "20220716152936"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "作为存活因子（survival factor）抑制晚期红系祖细胞（CFU-E）的凋亡"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20220716152857-cot4gh1",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20220716152857-cot4gh1"
+					},
+					"Children": [
+						{
+							"ID": "20220716152857-99bzwea",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20220716152857-99bzwea",
+								"updated": "20220716152942"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "促进晚期红系祖细胞（CFU-E）的增值与分化"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20220716152952-g21ez5t",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20220716152952-g21ez5t"
+					},
+					"Children": [
+						{
+							"ID": "20220716152952-1k66lvt",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20220716152952-1k66lvt",
+								"updated": "20220716153012"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "EPO可激活血红蛋白等红系特异基因的表达"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20220716153015-3rpek46",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20220716153015-3rpek46",
+						"updated": "20220716153026"
+					},
+					"Children": [
+						{
+							"ID": "20220716153015-iaberd4",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20220716153015-iaberd4",
+								"updated": "20220716153026"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "还可促进网织红细胞的成熟与释放"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20220716153030-kr75tng",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220716153030-kr75tng",
+				"updated": "20220716153123"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "来源：肾（90 ~ 95%）、肾外（5~10%，主要是肝）"
+				}
+			]
+		},
+		{
+			"ID": "20220716153135-qqec81w",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220716153135-qqec81w",
+				"updated": "20220716153223"
+			},
+			"Children": [
+				{
+					"Type": "NodeStrong",
+					"Data": "strong",
+					"Properties": {
+						"style": "color: var(--b3-font-color8);"
+					},
+					"Children": [
+						{
+							"Type": "NodeStrongA6kOpenMarker",
+							"Data": "**"
+						},
+						{
+							"Type": "NodeText",
+							"Data": "组织缺氧"
+						},
+						{
+							"Type": "NodeStrongA6kCloseMarker",
+							"Data": "**"
+						}
+					]
+				},
+				{
+					"Type": "NodeKramdownSpanIAL",
+					"Data": "{: style=\"color: var(--b3-font-color8);\"}"
+				},
+				{
+					"Type": "NodeText",
+					"Data": "是促进EPO分泌的生理刺激性因素，如贫血，缺氧，肾血流减少"
+				}
+			]
+		},
+		{
+			"ID": "20220716153228-715xw7y",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220716153228-715xw7y",
+				"updated": "20220716153257"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "慢性肾衰患者常因缺乏EPO而发生肾性贫血。"
+				}
+			]
+		},
+		{
+			"ID": "20220716153205-24gbchf",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220716153205-24gbchf"
+			}
+		}
+	]
+}

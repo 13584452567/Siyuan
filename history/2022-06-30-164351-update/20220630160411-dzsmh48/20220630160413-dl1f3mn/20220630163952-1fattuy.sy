@@ -1,0 +1,19 @@
+{
+	"ID": "20220630163952-1fattuy",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20220630163952-1fattuy",
+		"title": "稳态的维持",
+		"updated": "20220630163957"
+	},
+	"Children": [
+		{
+			"ID": "20220630163952-w08u7e2",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220630163952-w08u7e2",
+				"updated": "20220630163952"
+			}
+		}
+	]
+}

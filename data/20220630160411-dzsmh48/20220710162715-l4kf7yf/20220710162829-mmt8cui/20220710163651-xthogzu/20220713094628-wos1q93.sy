@@ -1,0 +1,94 @@
+{
+	"ID": "20220713094628-wos1q93",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20220713094628-wos1q93",
+		"title": "红细胞的生成部位与过程",
+		"updated": "20220713095532"
+	},
+	"Children": [
+		{
+			"ID": "20220713094628-wiok356",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220713094628-wiok356",
+				"updated": "20220713094802"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "骨髓是成年人生成红细胞的唯一场所。成人各类红细胞均起源于骨髓造血干细胞。"
+				}
+			]
+		},
+		{
+			"ID": "20220713095029-or2nh82",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220713095029-or2nh82"
+			}
+		},
+		{
+			"ID": "20220713095031-e43r9su",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220713095031-e43r9su",
+				"updated": "20220713095406"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "干细胞-\u003e髓系干细胞-\u003e红系定向祖细胞-\u003e元红细胞细胞-\u003e幼红细胞(早幼,中幼,晚幼红细胞)-\u003e"
+				},
+				{
+					"Type": "NodeMark",
+					"Data": "mark",
+					"Children": [
+						{
+							"Type": "NodeMark2OpenMarker"
+						},
+						{
+							"Type": "NodeText",
+							"Data": "网织红细胞"
+						},
+						{
+							"Type": "NodeMark2CloseMarker"
+						}
+					]
+				},
+				{
+					"Type": "NodeText",
+					"Data": "-\u003e成熟红细胞   120天"
+				}
+			]
+		},
+		{
+			"ID": "20220713095144-wjfom82",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220713095144-wjfom82",
+				"updated": "20220713095444"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "网织红细胞仅1-2天,占红细胞总数的0.5%-1.5%"
+				}
+			]
+		},
+		{
+			"ID": "20220713095449-xr9ilpi",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220713095449-xr9ilpi",
+				"updated": "20220713095532"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "临床工作中通常通过外周血网织红细胞计数来了解骨髓造血功能的盛衰."
+				}
+			]
+		}
+	]
+}

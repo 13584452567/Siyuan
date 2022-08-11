@@ -1,0 +1,198 @@
+{
+	"ID": "20220717102510-pim7m1o",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20220717102510-pim7m1o",
+		"title": "血小板的释放",
+		"updated": "20220717103438"
+	},
+	"Children": [
+		{
+			"ID": "20220717103143-40hbah8",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220717103143-40hbah8",
+				"updated": "20220717103151"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "platelet release"
+				}
+			]
+		},
+		{
+			"ID": "20220717102511-zopt96a",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220717102511-zopt96a",
+				"updated": "20220717102720"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "血小板受刺激后将贮存在血小板颗粒内部的物质排出的现象，称为血小板的释放。"
+				}
+			]
+		},
+		{
+			"ID": "20220717103153-vtsf3q5",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220717103153-vtsf3q5",
+				"updated": "20220717103211"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "致密体：ADP,ATP,5-HT,Ca"
+				},
+				{
+					"Type": "NodeSup",
+					"Data": "sup",
+					"Children": [
+						{
+							"Type": "NodeSupOpenMarker"
+						},
+						{
+							"Type": "NodeText",
+							"Data": "2+"
+						},
+						{
+							"Type": "NodeSupCloseMarker"
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20220717103212-55rtq0y",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220717103212-55rtq0y",
+				"updated": "20220717103305"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "α颗粒：vWF、多种凝血因子、血小板源生长因子、转化生长因子β、凝血酶敏感蛋白等。"
+				}
+			]
+		},
+		{
+			"ID": "20220717103306-we6bxd1",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220717103306-we6bxd1"
+			}
+		},
+		{
+			"ID": "20220717103311-bhjwwmc",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220717103311-bhjwwmc",
+				"updated": "20220717103358"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "血小板还可以即使合成释放血栓烷A"
+				},
+				{
+					"Type": "NodeSub",
+					"Data": "sub",
+					"Children": [
+						{
+							"Type": "NodeSubOpenMarker"
+						},
+						{
+							"Type": "NodeText",
+							"Data": "2"
+						},
+						{
+							"Type": "NodeSubCloseMarker"
+						}
+					]
+				},
+				{
+					"Type": "NodeText",
+					"Data": "（thromboxaneA"
+				},
+				{
+					"Type": "NodeSub",
+					"Data": "sub",
+					"Children": [
+						{
+							"Type": "NodeSubOpenMarker"
+						},
+						{
+							"Type": "NodeText",
+							"Data": "2"
+						},
+						{
+							"Type": "NodeSubCloseMarker"
+						}
+					]
+				},
+				{
+					"Type": "NodeText",
+					"Data": ",TXA"
+				},
+				{
+					"Type": "NodeSub",
+					"Data": "sub",
+					"Children": [
+						{
+							"Type": "NodeSubOpenMarker"
+						},
+						{
+							"Type": "NodeText",
+							"Data": "2"
+						},
+						{
+							"Type": "NodeSubCloseMarker"
+						}
+					]
+				},
+				{
+					"Type": "NodeText",
+					"Data": "）"
+				}
+			]
+		},
+		{
+			"ID": "20220717103415-5t2smvn",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220717103415-5t2smvn",
+				"updated": "20220717103438"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "TXA"
+				},
+				{
+					"Type": "NodeSub",
+					"Data": "sub",
+					"Children": [
+						{
+							"Type": "NodeSubOpenMarker"
+						},
+						{
+							"Type": "NodeText",
+							"Data": "2"
+						},
+						{
+							"Type": "NodeSubCloseMarker"
+						}
+					]
+				},
+				{
+					"Type": "NodeText",
+					"Data": "具有强烈的聚集血小板和缩血管作用。"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,59 @@
+{
+	"ID": "20220713094516-rm1pyxu",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20220713094516-rm1pyxu",
+		"title": "贫血",
+		"updated": "20220713094611"
+	},
+	"Children": [
+		{
+			"ID": "20220713094516-gcfjacv",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220713094516-gcfjacv",
+				"updated": "20220713094544"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "人体外周红细胞数量、血红蛋白浓度低于正常。"
+				}
+			]
+		},
+		{
+			"ID": "20220713094548-fyok76h",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220713094548-fyok76h",
+				"updated": "20220713094611"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "正常人每天产生约2x10"
+				},
+				{
+					"Type": "NodeSup",
+					"Data": "sup",
+					"Children": [
+						{
+							"Type": "NodeSupOpenMarker"
+						},
+						{
+							"Type": "NodeText",
+							"Data": "11"
+						},
+						{
+							"Type": "NodeSupCloseMarker"
+						}
+					]
+				},
+				{
+					"Type": "NodeText",
+					"Data": "个红细胞。"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,382 @@
+{
+	"ID": "20220717103448-77l9n9c",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20220717103448-77l9n9c",
+		"title": "血小板的聚集",
+		"updated": "20220717133457"
+	},
+	"Children": [
+		{
+			"ID": "20220717104220-xeimhvf",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220717104220-xeimhvf",
+				"updated": "20220717104232"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "platelet aggregation"
+				}
+			]
+		},
+		{
+			"ID": "20220717103449-7jmpush",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220717103449-7jmpush",
+				"updated": "20220717103537"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "血小板和血小板之间的相互黏着，称为血小板的聚集。"
+				}
+			]
+		},
+		{
+			"ID": "20220717103539-cjs0w6b",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220717103539-cjs0w6b",
+				"updated": "20220717103715"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "血小板聚集需要纤维蛋白原、Ca"
+				},
+				{
+					"Type": "NodeSup",
+					"Data": "sup",
+					"Children": [
+						{
+							"Type": "NodeSupOpenMarker"
+						},
+						{
+							"Type": "NodeText",
+							"Data": "2+"
+						},
+						{
+							"Type": "NodeSupCloseMarker"
+						}
+					]
+				},
+				{
+					"Type": "NodeText",
+					"Data": "及血小板膜上GPⅡb-Ⅲa的参与。"
+				}
+			]
+		},
+		{
+			"ID": "20220717103715-5ykv8kj",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220717103715-5ykv8kj",
+				"updated": "20220717103825"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "纤维蛋白原成为相邻血小板相互聚集的桥梁。"
+				}
+			]
+		},
+		{
+			"ID": "20220717103826-iura9jx",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220717103826-iura9jx",
+				"updated": "20220717103839"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "血小板聚集形成血小板止血栓。"
+				}
+			]
+		},
+		{
+			"ID": "20220717104025-wj1s6rv",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220717104025-wj1s6rv",
+				"updated": "20220717104031"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "血小板聚集的激活剂：ADP、肾上腺素、5-羟色胺、组胺、胶原、凝血酶、TXA"
+				},
+				{
+					"Type": "NodeSub",
+					"Data": "sub",
+					"Children": [
+						{
+							"Type": "NodeSubOpenMarker"
+						},
+						{
+							"Type": "NodeText",
+							"Data": "2"
+						},
+						{
+							"Type": "NodeSubCloseMarker"
+						}
+					]
+				},
+				{
+					"Type": "NodeText",
+					"Data": "等"
+				}
+			]
+		},
+		{
+			"ID": "20220717104118-6x0yj2f",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220717104118-6x0yj2f",
+				"updated": "20220717104205"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "血小板聚集的抑制剂：前列环素（prostacyclin，PGI"
+				},
+				{
+					"Type": "NodeSub",
+					"Data": "sub",
+					"Children": [
+						{
+							"Type": "NodeSubOpenMarker"
+						},
+						{
+							"Type": "NodeText",
+							"Data": "2"
+						},
+						{
+							"Type": "NodeSubCloseMarker"
+						}
+					]
+				},
+				{
+					"Type": "NodeText",
+					"Data": "）、一氧化氮（NO）"
+				}
+			]
+		},
+		{
+			"ID": "20220717104245-uq9qsjz",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20220717104245-uq9qsjz",
+				"updated": "20220717104547"
+			},
+			"Children": [
+				{
+					"ID": "20220717104251-mcwsk8w",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20220717104251-mcwsk8w",
+						"updated": "20220717104547"
+					},
+					"Children": [
+						{
+							"ID": "20220717104251-clff3gy",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20220717104251-clff3gy",
+								"updated": "20220717104302"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "两个时相"
+								}
+							]
+						},
+						{
+							"ID": "20220717104303-ij79wap",
+							"Type": "NodeList",
+							"ListData": {},
+							"Properties": {
+								"id": "20220717104303-ij79wap",
+								"updated": "20220717104547"
+							},
+							"Children": [
+								{
+									"ID": "20220717104303-0laaf55",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20220717104303-0laaf55"
+									},
+									"Children": [
+										{
+											"ID": "20220717104303-4qbqj1j",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20220717104303-4qbqj1j",
+												"updated": "20220717104314"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "第一聚集时相：发生迅速、可逆、由外源性ADP引起"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20220717104501-z7e52u4",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20220717104501-z7e52u4",
+										"updated": "20220717104547"
+									},
+									"Children": [
+										{
+											"ID": "20220717104501-hlz43qd",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20220717104501-hlz43qd",
+												"updated": "20220717104547"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "第二聚集时相：发生缓慢、不可逆、由内源性ADP、TXA"
+												},
+												{
+													"Type": "NodeSub",
+													"Data": "sub",
+													"Children": [
+														{
+															"Type": "NodeSubOpenMarker"
+														},
+														{
+															"Type": "NodeText",
+															"Data": "2"
+														},
+														{
+															"Type": "NodeSubCloseMarker"
+														}
+													]
+												},
+												{
+													"Type": "NodeText",
+													"Data": "引起"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20220717104651-e7eerke",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220717104651-e7eerke",
+				"updated": "20220717104656"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "正常情况下，血管内皮产生的PGI"
+				},
+				{
+					"Type": "NodeSub",
+					"Data": "sub",
+					"Children": [
+						{
+							"Type": "NodeSubOpenMarker"
+						},
+						{
+							"Type": "NodeText",
+							"Data": "2"
+						},
+						{
+							"Type": "NodeSubCloseMarker"
+						}
+					]
+				},
+				{
+					"Type": "NodeText",
+					"Data": "与血小板生成的TXA"
+				},
+				{
+					"Type": "NodeSub",
+					"Data": "sub",
+					"Children": [
+						{
+							"Type": "NodeSubOpenMarker"
+						},
+						{
+							"Type": "NodeText",
+							"Data": "2"
+						},
+						{
+							"Type": "NodeSubCloseMarker"
+						}
+					]
+				},
+				{
+					"Type": "NodeText",
+					"Data": "之间保持动态平衡，使血小板不发生聚集。"
+				}
+			]
+		},
+		{
+			"ID": "20220717104704-at7um59",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220717104704-at7um59",
+				"updated": "20220717133457"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "若血管内皮受损，局部PGI"
+				},
+				{
+					"Type": "NodeSub",
+					"Data": "sub",
+					"Children": [
+						{
+							"Type": "NodeSubOpenMarker"
+						},
+						{
+							"Type": "NodeText",
+							"Data": "2"
+						},
+						{
+							"Type": "NodeSubCloseMarker"
+						}
+					]
+				},
+				{
+					"Type": "NodeText",
+					"Data": "生成减少，将有利于血小板聚集的发生。"
+				}
+			]
+		}
+	]
+}

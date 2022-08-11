@@ -1,0 +1,53 @@
+{
+	"ID": "20220713094830-mdxzj40",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20220713094830-mdxzj40",
+		"title": "造血微环境",
+		"updated": "20220713095024"
+	},
+	"Children": [
+		{
+			"ID": "20220713094831-gqw57nu",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220713094831-gqw57nu",
+				"updated": "20220713094854"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "hemopoietic microenvironment"
+				}
+			]
+		},
+		{
+			"ID": "20220713094857-e7jexwl",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220713094857-e7jexwl",
+				"updated": "20220713094940"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "指造血干细胞定居、存活、增值、分化和成熟的场所（T淋巴细胞在胸腺中成熟）"
+				}
+			]
+		},
+		{
+			"ID": "20220713094947-2ekquzx",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220713094947-2ekquzx",
+				"updated": "20220713095024"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "造血干细胞或造血微环境障碍可引起造血障碍而发生再生障碍性贫血。"
+				}
+			]
+		}
+	]
+}

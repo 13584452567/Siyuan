@@ -1,0 +1,174 @@
+{
+	"ID": "20220710163702-kypm8of",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20220710163702-kypm8of",
+		"title": "血小板的生理特性",
+		"updated": "20220717094623"
+	},
+	"Children": [
+		{
+			"ID": "20220710163702-kfhwgyy",
+			"Type": "NodeList",
+			"ListData": {
+				"Typ": 1
+			},
+			"Properties": {
+				"id": "20220710163702-kfhwgyy",
+				"updated": "20220717094623"
+			},
+			"Children": [
+				{
+					"ID": "20220717094541-imkzw8s",
+					"Type": "NodeListItem",
+					"ListData": {
+						"Typ": 1,
+						"Delimiter": 46,
+						"Marker": "MS4=",
+						"Num": 1
+					},
+					"Properties": {
+						"id": "20220717094541-imkzw8s",
+						"updated": "20220717094615"
+					},
+					"Children": [
+						{
+							"ID": "20220717094541-hxgehob",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20220717094541-hxgehob",
+								"updated": "20220717094615"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "血小板的粘附"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20220717094547-463rvaj",
+					"Type": "NodeListItem",
+					"ListData": {
+						"Typ": 1,
+						"Delimiter": 46,
+						"Marker": "Mi4=",
+						"Num": 2
+					},
+					"Properties": {
+						"id": "20220717094547-463rvaj",
+						"updated": "20220717094620"
+					},
+					"Children": [
+						{
+							"ID": "20220717094547-agf64qr",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20220717094547-agf64qr",
+								"updated": "20220717094620"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "血小板的释放"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20220717094549-ijw7b17",
+					"Type": "NodeListItem",
+					"ListData": {
+						"Typ": 1,
+						"Delimiter": 46,
+						"Marker": "My4=",
+						"Num": 3
+					},
+					"Properties": {
+						"id": "20220717094549-ijw7b17",
+						"updated": "20220717094621"
+					},
+					"Children": [
+						{
+							"ID": "20220717094549-3b86j2q",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20220717094549-3b86j2q",
+								"updated": "20220717094621"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "血小板的聚集"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20220717094550-ot7fv3l",
+					"Type": "NodeListItem",
+					"ListData": {
+						"Typ": 1,
+						"Delimiter": 46,
+						"Marker": "NC4=",
+						"Num": 4
+					},
+					"Properties": {
+						"id": "20220717094550-ot7fv3l",
+						"updated": "20220717094622"
+					},
+					"Children": [
+						{
+							"ID": "20220717094550-xps16wc",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20220717094550-xps16wc",
+								"updated": "20220717094622"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "血小板的收缩"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20220717094552-ikemp5e",
+					"Type": "NodeListItem",
+					"ListData": {
+						"Typ": 1,
+						"Delimiter": 46,
+						"Marker": "NS4=",
+						"Num": 5
+					},
+					"Properties": {
+						"id": "20220717094552-ikemp5e",
+						"updated": "20220717094623"
+					},
+					"Children": [
+						{
+							"ID": "20220717094552-s65zfuf",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20220717094552-s65zfuf",
+								"updated": "20220717094623"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "血小板的吸附"
+								}
+							]
+						}
+					]
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,39 @@
+{
+	"ID": "20220701103552-e2ck81l",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20220701103552-e2ck81l",
+		"title": "某些特殊的化学物质",
+		"updated": "20220701103627"
+	},
+	"Children": [
+		{
+			"ID": "20220701103552-4seuhqj",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220701103552-4seuhqj",
+				"updated": "20220701103611"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "激素（hormone）"
+				}
+			]
+		},
+		{
+			"ID": "20220701103611-693fj9g",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220701103611-693fj9g",
+				"updated": "20220701103627"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "局部体液因素（local liquid factor）"
+				}
+			]
+		}
+	]
+}

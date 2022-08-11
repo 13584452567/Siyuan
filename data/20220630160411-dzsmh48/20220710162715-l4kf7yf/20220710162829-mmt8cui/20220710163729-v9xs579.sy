@@ -1,0 +1,19 @@
+{
+	"ID": "20220710163729-v9xs579",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20220710163729-v9xs579",
+		"title": "纤维蛋白溶解",
+		"updated": "20220710163736"
+	},
+	"Children": [
+		{
+			"ID": "20220710163729-4vpyavc",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220710163729-4vpyavc",
+				"updated": "20220710163729"
+			}
+		}
+	]
+}

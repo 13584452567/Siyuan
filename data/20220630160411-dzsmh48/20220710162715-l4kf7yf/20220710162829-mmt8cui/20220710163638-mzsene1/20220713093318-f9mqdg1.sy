@@ -1,0 +1,95 @@
+{
+	"ID": "20220713093318-f9mqdg1",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20220713093318-f9mqdg1",
+		"title": "渗透脆性",
+		"updated": "20220713093849"
+	},
+	"Children": [
+		{
+			"ID": "20220713093518-aas0z3x",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220713093518-aas0z3x",
+				"updated": "20220713093531"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "osmotic fragility"
+				}
+			]
+		},
+		{
+			"ID": "20220713093454-7zu1i5p",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220713093454-7zu1i5p",
+				"updated": "20220713093514"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "红细胞在低渗溶液中发生膨胀破裂的特性"
+				}
+			]
+		},
+		{
+			"ID": "20220713093318-yufc85w",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220713093318-yufc85w",
+				"updated": "20220713093446"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "红细胞在等渗的0.9%NaCl溶液中保持其正常形态和大小,在低渗NaCl溶液中逐渐涨大,成为球形.最终破裂而溶血"
+				}
+			]
+		},
+		{
+			"ID": "20220713093538-1a62qe7",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220713093538-1a62qe7",
+				"updated": "20220713093610"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "在0.42%NaCl溶液中开始溶血,0.34%完全溶血."
+				}
+			]
+		},
+		{
+			"ID": "20220713093610-isgfp1a",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220713093610-isgfp1a",
+				"updated": "20220713093714"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "这一现象表明红细胞对低渗盐溶液具有一定的抵抗作用,且同一个体的红细胞对低渗盐溶液的抵抗力并不相同."
+				}
+			]
+		},
+		{
+			"ID": "20220713093720-ai8xn0c",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220713093720-ai8xn0c",
+				"updated": "20220713093849"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "衰老红细胞对低渗盐溶液的抵抗力低,即脆性高;初成熟的红细胞的抵抗力高,即脆性低.球形红细胞由于表面积与体积之比较小,少量的水进入红细胞引起红细胞破裂,因此,红细胞脆性变大."
+				}
+			]
+		}
+	]
+}

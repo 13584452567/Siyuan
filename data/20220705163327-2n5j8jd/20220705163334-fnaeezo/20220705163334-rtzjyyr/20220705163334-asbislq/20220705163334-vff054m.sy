@@ -1,0 +1,74 @@
+{
+	"ID": "20220705163334-vff054m",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20220705163334-vff054m",
+		"title": "2022-07-05",
+		"updated": "20220705163941"
+	},
+	"Children": [
+		{
+			"ID": "20220705163334-1o4xrki",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220705163334-1o4xrki",
+				"updated": "20220705163847"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "今天没出门跑步"
+				}
+			]
+		},
+		{
+			"ID": "20220705163848-o1he6p0",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220705163848-o1he6p0",
+				"updated": "20220705163859"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "玩客云的armbian装了宝塔"
+				}
+			]
+		},
+		{
+			"ID": "20220705163900-wy12fxk",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220705163900-wy12fxk",
+				"updated": "20220705163918"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "docker辅助插件删除的时候把docker本体也卸载了。离谱"
+				}
+			]
+		},
+		{
+			"ID": "20220705163919-zwuusho",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220705163919-zwuusho",
+				"updated": "20220705163940"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "去社区报备了一下，这么多天才来问我真是奇怪"
+				}
+			]
+		},
+		{
+			"ID": "20220705163941-ubdht0f",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220705163941-ubdht0f"
+			}
+		}
+	]
+}

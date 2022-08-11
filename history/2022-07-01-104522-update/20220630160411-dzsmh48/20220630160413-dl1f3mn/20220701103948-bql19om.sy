@@ -1,0 +1,40 @@
+{
+	"ID": "20220701103948-bql19om",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20220701103948-bql19om",
+		"title": "反馈控制",
+		"updated": "20220701104112"
+	},
+	"Children": [
+		{
+			"ID": "20220701103948-nlq0idw",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220701103948-nlq0idw",
+				"updated": "20220701104050"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "反馈：受控部分发出反馈信息影响控制部分"
+				}
+			]
+		},
+		{
+			"ID": "20220701104054-63sg000",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20220701104054-63sg000",
+				"updated": "20220701104112"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "负反馈与正反馈"
+				}
+			]
+		}
+	]
+}

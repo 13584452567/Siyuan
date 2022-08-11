@@ -1,0 +1,39 @@
+{
+	"ID": "20220713093204-4g8crcd",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20220713093204-4g8crcd",
+		"title": "高渗溶液",
+		"updated": "20220713093228"
+	},
+	"Children": [
+		{
+			"ID": "20220713093204-3d4w8y5",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220713093204-3d4w8y5",
+				"updated": "20220713093220"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "hyperosmotic sloution"
+				}
+			]
+		},
+		{
+			"ID": "20220713093221-jh0si0h",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220713093221-jh0si0h",
+				"updated": "20220713093228"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "渗透压高于等渗溶液"
+				}
+			]
+		}
+	]
+}

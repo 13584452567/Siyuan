@@ -1,0 +1,73 @@
+{
+	"ID": "20220710164103-sm6nrxl",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20220710164103-sm6nrxl",
+		"title": "渗透压",
+		"updated": "20220710164254"
+	},
+	"Children": [
+		{
+			"ID": "20220710164103-0xd1ba7",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220710164103-0xd1ba7",
+				"updated": "20220710164113"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "Osmotic Pressure"
+				}
+			]
+		},
+		{
+			"ID": "20220710164113-kbfirjn",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220710164113-kbfirjn"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "其高低取决于溶液中溶质颗粒(分子或离子)数目的多少，而与溶质的种类和颗粒的大小无关。"
+				}
+			]
+		},
+		{
+			"ID": "20220710164123-oxamquo",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220710164123-oxamquo",
+				"updated": "20220710164155"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "单位:mmHg（或者渗透单位）"
+				}
+			]
+		},
+		{
+			"ID": "20220710164156-bl7ve7r",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220710164156-bl7ve7r",
+				"updated": "20220710164254"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "正常血浆渗透浓度约为300mOsm/(kg·H2O)，或是5790mmHg。"
+				}
+			]
+		},
+		{
+			"ID": "20220710164133-zj0iyyu",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220710164133-zj0iyyu"
+			}
+		}
+	]
+}

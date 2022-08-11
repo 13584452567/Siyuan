@@ -1,0 +1,19 @@
+{
+	"ID": "20220705163334-fnaeezo",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20220705163334-fnaeezo",
+		"title": "daily note",
+		"updated": "20220705163334"
+	},
+	"Children": [
+		{
+			"ID": "20220705163334-dvdfaxx",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220705163334-dvdfaxx",
+				"updated": "20220705163334"
+			}
+		}
+	]
+}

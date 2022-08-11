@@ -1,0 +1,67 @@
+{
+	"ID": "20220710165646-ui2yjl7",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20220710165646-ui2yjl7",
+		"title": "红细胞沉降率",
+		"updated": "20220710165850"
+	},
+	"Children": [
+		{
+			"ID": "20220710165646-nyp6b6o",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220710165646-nyp6b6o",
+				"updated": "20220710165718"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "erythrocyte sedimentation rate，ESR"
+				}
+			]
+		},
+		{
+			"ID": "20220710165719-7rhr5ow",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220710165719-7rhr5ow",
+				"updated": "20220710165808"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "抗凝血中的红细胞在垂直静置血沉管中第一小时末下沉的距离。"
+				}
+			]
+		},
+		{
+			"ID": "20220710165808-q2qx0gb",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220710165808-q2qx0gb",
+				"updated": "20220710165836"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "正常成年男性为0~12mm/h "
+				}
+			]
+		},
+		{
+			"ID": "20220710165836-okdbdgv",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220710165836-okdbdgv",
+				"updated": "20220710165850"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "正常成年女性为0~20mm/h "
+				}
+			]
+		}
+	]
+}

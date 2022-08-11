@@ -1,0 +1,362 @@
+{
+	"ID": "20220710165609-35cya43",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20220710165609-35cya43",
+		"title": "悬浮稳定性",
+		"updated": "20220710170330"
+	},
+	"Children": [
+		{
+			"ID": "20220710165609-0k73br9",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220710165609-0k73br9",
+				"updated": "20220710165609"
+			}
+		},
+		{
+			"ID": "20220710165621-hf6debb",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220710165621-hf6debb",
+				"updated": "20220710165643"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "指红细胞能够相对稳定地悬浮与血浆之中"
+				}
+			]
+		},
+		{
+			"ID": "20220710165909-ox33aoa",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220710165909-ox33aoa",
+				"updated": "20220710170016"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "在某些疾病时（如活动性肺结核、风湿热等），红细胞彼此能较快地以凹面相贴，成为红细胞叠连（rouleaux formation）"
+				}
+			]
+		},
+		{
+			"ID": "20220710170019-x2gdz40",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20220710170019-x2gdz40",
+				"updated": "20220710170118"
+			},
+			"Children": [
+				{
+					"ID": "20220710170115-692ph9u",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20220710170115-692ph9u",
+						"updated": "20220710170118"
+					},
+					"Children": [
+						{
+							"ID": "20220710170115-ol90rta",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20220710170115-ol90rta",
+								"updated": "20220710170115"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "红细胞团块："
+								}
+							]
+						},
+						{
+							"ID": "20220710170118-pujk4xd",
+							"Type": "NodeList",
+							"ListData": {},
+							"Properties": {
+								"id": "20220710170118-pujk4xd"
+							},
+							"Children": [
+								{
+									"ID": "20220710170117-vkycy62",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20220710170117-vkycy62"
+									},
+									"Children": [
+										{
+											"ID": "20220710170117-3kp0taq",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20220710170117-3kp0taq"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "总面积与总体积之比减小，"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20220710170121-mjh0qo3",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20220710170121-mjh0qo3"
+									},
+									"Children": [
+										{
+											"ID": "20220710170121-qn1thtr",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20220710170121-qn1thtr"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "摩擦力相对减小，"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20220710170123-hn39izr",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20220710170123-hn39izr"
+									},
+									"Children": [
+										{
+											"ID": "20220710170123-qb5tyax",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20220710170123-qb5tyax"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "红细胞沉降率加快"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20220710170125-ilnrify",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20220710170125-ilnrify",
+				"updated": "20220710170153"
+			},
+			"Children": [
+				{
+					"ID": "20220710170130-ukaogqq",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20220710170130-ukaogqq",
+						"updated": "20220710170153"
+					},
+					"Children": [
+						{
+							"ID": "20220710170130-0c404om",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20220710170130-0c404om",
+								"updated": "20220710170133"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "球形红细胞"
+								}
+							]
+						},
+						{
+							"ID": "20220710170134-y1o05mu",
+							"Type": "NodeList",
+							"ListData": {},
+							"Properties": {
+								"id": "20220710170134-y1o05mu",
+								"updated": "20220710170153"
+							},
+							"Children": [
+								{
+									"ID": "20220710170134-ltz0ylb",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20220710170134-ltz0ylb"
+									},
+									"Children": [
+										{
+											"ID": "20220710170134-ngwfyhx",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20220710170134-ngwfyhx",
+												"updated": "20220710170138"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "接触面积小"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20220710170138-vpyoz7d",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20220710170138-vpyoz7d"
+									},
+									"Children": [
+										{
+											"ID": "20220710170138-3hh1yeq",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20220710170138-3hh1yeq",
+												"updated": "20220710170142"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "不容易叠连"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20220710170143-ufb4gxg",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20220710170143-ufb4gxg",
+										"updated": "20220710170153"
+									},
+									"Children": [
+										{
+											"ID": "20220710170143-6qcba3l",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20220710170143-6qcba3l",
+												"updated": "20220710170153"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "ESR减慢"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20220710170205-fam5oia",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220710170205-fam5oia",
+				"updated": "20220710170220"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "引起叠连的因素是血浆成分的变化"
+				}
+			]
+		},
+		{
+			"ID": "20220710170221-ekwts16",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220710170221-ekwts16",
+				"updated": "20220710170240"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "促进叠连：纤维蛋白原，球蛋白，胆固醇"
+				}
+			]
+		},
+		{
+			"ID": "20220710170244-t3s827t",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220710170244-t3s827t",
+				"updated": "20220710170257"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "抑制叠连：白蛋白，卵磷脂"
+				}
+			]
+		},
+		{
+			"ID": "20220710170258-b6dwlln",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220710170258-b6dwlln",
+				"updated": "20220710170330"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "风湿热患者血浆纤维蛋白原增高，叠连增强，ESR增高，悬浮稳定性降低。"
+				}
+			]
+		}
+	]
+}

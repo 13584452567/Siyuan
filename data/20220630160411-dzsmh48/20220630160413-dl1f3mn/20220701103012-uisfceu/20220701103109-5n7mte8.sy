@@ -1,0 +1,39 @@
+{
+	"ID": "20220701103109-5n7mte8",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20220701103109-5n7mte8",
+		"title": "反射",
+		"updated": "20220701103434"
+	},
+	"Children": [
+		{
+			"ID": "20220701103109-u5110ue",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220701103109-u5110ue",
+				"updated": "20220701103115"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "reflex"
+				}
+			]
+		},
+		{
+			"ID": "20220701103116-l5rm3hh",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220701103116-l5rm3hh",
+				"updated": "20220701103434"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "机体在中枢神经系统的参与下，对内外环境刺激所做出的规律性的应答"
+				}
+			]
+		}
+	]
+}

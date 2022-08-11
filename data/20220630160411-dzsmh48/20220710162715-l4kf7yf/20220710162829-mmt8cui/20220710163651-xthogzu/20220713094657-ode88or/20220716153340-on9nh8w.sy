@@ -1,0 +1,117 @@
+{
+	"ID": "20220716153340-on9nh8w",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20220716153340-on9nh8w",
+		"title": "影响红细胞生成的其他体液因素",
+		"updated": "20220716153512"
+	},
+	"Children": [
+		{
+			"ID": "20220716153341-ofzwka1",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220716153341-ofzwka1",
+				"updated": "20220716153349"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "促进红细胞生成"
+				}
+			]
+		},
+		{
+			"ID": "20220716153350-erf26vh",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20220716153350-erf26vh",
+				"updated": "20220716153415"
+			},
+			"Children": [
+				{
+					"ID": "20220716153353-wk2k8ts",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20220716153353-wk2k8ts",
+						"updated": "20220716153415"
+					},
+					"Children": [
+						{
+							"ID": "20220716153353-tp0scx5",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20220716153353-tp0scx5",
+								"updated": "20220716153415"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "雄激素、甲状腺激素、肾上腺皮质激素、生长激素"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20220716153416-1pftg9d",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220716153416-1pftg9d",
+				"updated": "20220716153422"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "抑制红细胞生成"
+				}
+			]
+		},
+		{
+			"ID": "20220716153424-3yfpchz",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20220716153424-3yfpchz",
+				"updated": "20220716153512"
+			},
+			"Children": [
+				{
+					"ID": "20220716153428-wyux3cb",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20220716153428-wyux3cb",
+						"updated": "20220716153512"
+					},
+					"Children": [
+						{
+							"ID": "20220716153428-8qs5awc",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20220716153428-8qs5awc",
+								"updated": "20220716153512"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "雌激素、转化生长因子β、干扰素γ和肿瘤坏死因子"
+								}
+							]
+						}
+					]
+				}
+			]
+		}
+	]
+}

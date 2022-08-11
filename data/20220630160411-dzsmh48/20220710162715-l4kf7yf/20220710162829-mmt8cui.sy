@@ -1,0 +1,53 @@
+{
+	"ID": "20220710162829-mmt8cui",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20220710162829-mmt8cui",
+		"title": "血液",
+		"updated": "20220710162925"
+	},
+	"Children": [
+		{
+			"ID": "20220710162829-be442ns",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220710162829-be442ns",
+				"updated": "20220710162835"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "blood"
+				}
+			]
+		},
+		{
+			"ID": "20220710162835-32670zo",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220710162835-32670zo",
+				"updated": "20220710162903"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "是一种流体组织，在心血管系统内循环流动，运输是血液的基本功能。"
+				}
+			]
+		},
+		{
+			"ID": "20220710162916-5f1e4hn",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220710162916-5f1e4hn",
+				"updated": "20220710162925"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "由血浆和血细胞构成"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,67 @@
+{
+	"ID": "20220701104118-pqtobqy",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20220701104118-pqtobqy",
+		"title": "负反馈",
+		"updated": "20220701104820"
+	},
+	"Children": [
+		{
+			"ID": "20220701104118-dms1oqy",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220701104118-dms1oqy",
+				"updated": "20220701104134"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "Negative feedback"
+				}
+			]
+		},
+		{
+			"ID": "20220701104135-mdrs9s0",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220701104135-mdrs9s0",
+				"updated": "20220701104159"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "受控部分发出反馈信息，使控制部分向相反方向变化"
+				}
+			]
+		},
+		{
+			"ID": "20220701104655-wp9a9aa",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220701104655-wp9a9aa",
+				"updated": "20220701104700"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "意义：维持稳态"
+				}
+			]
+		},
+		{
+			"ID": "20220701104813-hixwlmn",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220701104813-hixwlmn",
+				"updated": "20220701104820"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "缺点：滞后，波动"
+				}
+			]
+		}
+	]
+}

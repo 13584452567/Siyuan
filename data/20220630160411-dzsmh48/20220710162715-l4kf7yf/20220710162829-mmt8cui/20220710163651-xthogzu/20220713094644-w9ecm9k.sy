@@ -1,0 +1,107 @@
+{
+	"ID": "20220713094644-w9ecm9k",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20220713094644-w9ecm9k",
+		"title": "红细胞生成所需要的物质",
+		"updated": "20220716152725"
+	},
+	"Children": [
+		{
+			"ID": "20220713094644-efm6fk1",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220713094644-efm6fk1",
+				"updated": "20220716152541"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "铁是合成血红蛋白的必需原料"
+				}
+			]
+		},
+		{
+			"ID": "20220716152543-74ad0gj",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220716152543-74ad0gj",
+				"updated": "20220716152552"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "缺铁引起缺铁性贫血"
+				}
+			]
+		},
+		{
+			"ID": "20220716152611-zigoov3",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220716152611-zigoov3",
+				"updated": "20220716152653"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "叶酸和维生素B"
+				},
+				{
+					"Type": "NodeSub",
+					"Data": "sub",
+					"Children": [
+						{
+							"Type": "NodeSubOpenMarker"
+						},
+						{
+							"Type": "NodeText",
+							"Data": "12"
+						},
+						{
+							"Type": "NodeSubCloseMarker"
+						}
+					]
+				},
+				{
+					"Type": "NodeText",
+					"Data": "是红细胞成熟所必需的物质"
+				}
+			]
+		},
+		{
+			"ID": "20220716152702-pxrdg1w",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220716152702-pxrdg1w",
+				"updated": "20220716152725"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "缺乏叶酸或者维生素B"
+				},
+				{
+					"Type": "NodeSub",
+					"Data": "sub",
+					"Children": [
+						{
+							"Type": "NodeSubOpenMarker"
+						},
+						{
+							"Type": "NodeText",
+							"Data": "12"
+						},
+						{
+							"Type": "NodeSubCloseMarker"
+						}
+					]
+				},
+				{
+					"Type": "NodeText",
+					"Data": "都可导致巨幼红细胞性贫血"
+				}
+			]
+		}
+	]
+}

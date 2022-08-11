@@ -1,0 +1,286 @@
+{
+	"ID": "20220710163651-xthogzu",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20220710163651-xthogzu",
+		"title": "红细胞的生成与破坏",
+		"updated": "20220713094505"
+	},
+	"Children": [
+		{
+			"ID": "20220710163651-621xtiq",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20220710163651-621xtiq",
+				"updated": "20220713094208"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "兼哪些常见原因可以引起贫血"
+				}
+			]
+		},
+		{
+			"ID": "20220713094210-hwxflyt",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20220713094210-hwxflyt",
+				"updated": "20220713094412"
+			},
+			"Children": [
+				{
+					"ID": "20220713094254-aem5b7s",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"fold": "1",
+						"id": "20220713094254-aem5b7s",
+						"updated": "20220713094412"
+					},
+					"Children": [
+						{
+							"ID": "20220713094254-sprbzj7",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20220713094254-sprbzj7",
+								"updated": "20220713094257"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "红细胞"
+								}
+							]
+						},
+						{
+							"ID": "20220713094259-shn44d5",
+							"Type": "NodeList",
+							"ListData": {},
+							"Properties": {
+								"id": "20220713094259-shn44d5",
+								"updated": "20220713094412"
+							},
+							"Children": [
+								{
+									"ID": "20220713094258-r4rf0a6",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20220713094258-r4rf0a6"
+									},
+									"Children": [
+										{
+											"ID": "20220713094258-c7ecfhq",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20220713094258-c7ecfhq",
+												"updated": "20220713094341"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "男性:(4.0~5.5)x10"
+												},
+												{
+													"Type": "NodeSup",
+													"Data": "sup",
+													"Children": [
+														{
+															"Type": "NodeSupOpenMarker"
+														},
+														{
+															"Type": "NodeText",
+															"Data": "12"
+														},
+														{
+															"Type": "NodeSupCloseMarker"
+														}
+													]
+												},
+												{
+													"Type": "NodeText",
+													"Data": "/L"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20220713094346-b2y4732",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20220713094346-b2y4732",
+										"updated": "20220713094412"
+									},
+									"Children": [
+										{
+											"ID": "20220713094346-vw9cpb0",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20220713094346-vw9cpb0",
+												"updated": "20220713094412"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "女性:(3.5~5.0)x10"
+												},
+												{
+													"Type": "NodeSup",
+													"Data": "sup",
+													"Children": [
+														{
+															"Type": "NodeSupOpenMarker"
+														},
+														{
+															"Type": "NodeText",
+															"Data": "12"
+														},
+														{
+															"Type": "NodeSupCloseMarker"
+														}
+													]
+												},
+												{
+													"Type": "NodeText",
+													"Data": "/L"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20220713094343-u8yaqqo",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20220713094343-u8yaqqo",
+				"updated": "20220713094504"
+			},
+			"Children": [
+				{
+					"ID": "20220713094424-4gkpr5u",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"fold": "1",
+						"id": "20220713094424-4gkpr5u",
+						"updated": "20220713094504"
+					},
+					"Children": [
+						{
+							"ID": "20220713094424-roa8whg",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20220713094424-roa8whg",
+								"updated": "20220713094428"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "血红蛋白"
+								}
+							]
+						},
+						{
+							"ID": "20220713094432-t40iwsp",
+							"Type": "NodeList",
+							"ListData": {},
+							"Properties": {
+								"id": "20220713094432-t40iwsp",
+								"updated": "20220713094504"
+							},
+							"Children": [
+								{
+									"ID": "20220713094431-ej2o3t6",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20220713094431-ej2o3t6",
+										"updated": "20220713094451"
+									},
+									"Children": [
+										{
+											"ID": "20220713094431-1paomy9",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20220713094431-1paomy9",
+												"updated": "20220713094451"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "男性:120~160g/L"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20220713094436-nd6wcbe",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20220713094436-nd6wcbe",
+										"updated": "20220713094504"
+									},
+									"Children": [
+										{
+											"ID": "20220713094436-lerxxs6",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20220713094436-lerxxs6",
+												"updated": "20220713094504"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "女性:110~150g/L"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20220713094505-lr2jqi2",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220713094505-lr2jqi2"
+			}
+		}
+	]
+}

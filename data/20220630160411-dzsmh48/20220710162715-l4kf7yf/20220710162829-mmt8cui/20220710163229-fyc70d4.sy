@@ -1,0 +1,81 @@
+{
+	"ID": "20220710163229-fyc70d4",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20220710163229-fyc70d4",
+		"title": "血细胞比容",
+		"updated": "20220710163543"
+	},
+	"Children": [
+		{
+			"ID": "20220710163403-6xzn8lf",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220710163403-6xzn8lf",
+				"updated": "20220710163428"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "hematocrit"
+				}
+			]
+		},
+		{
+			"ID": "20220710163229-y6essfu",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220710163229-y6essfu",
+				"updated": "20220710163342"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "指血细胞在血液中所占的容积比"
+				}
+			]
+		},
+		{
+			"ID": "20220710163433-z4h0bw2",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220710163433-z4h0bw2",
+				"updated": "20220710163447"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "成年男性40%~50%"
+				}
+			]
+		},
+		{
+			"ID": "20220710163449-3fkc478",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220710163449-3fkc478",
+				"updated": "20220710163522"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "成年女性37%~48%"
+				}
+			]
+		},
+		{
+			"ID": "20220710163526-26ifynx",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220710163526-26ifynx",
+				"updated": "20220710163543"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "可反映血液中红细胞的相对浓度"
+				}
+			]
+		}
+	]
+}

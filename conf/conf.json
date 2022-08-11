@@ -23,12 +23,17 @@
     "lang": "zh_CN",
     "customCSS": false,
     "themeJS": false,
-    "closeButtonBehavior": 0
+    "closeButtonBehavior": 0,
+    "hideStatusBar": false
   },
   "langs": [
     {
       "label": "English",
       "name": "en_US"
+    },
+    {
+      "label": "Español",
+      "name": "es_ES"
     },
     {
       "label": "Français",
@@ -50,8 +55,10 @@
     "refCreateSavePath": "",
     "createDocNameTemplate": "",
     "maxListCount": 512,
+    "maxOpenTabCount": 8,
     "allowCreateDeeper": false,
     "removeDocWithoutConfirm": false,
+    "closeTabsOnStart": false,
     "sort": 6
   },
   "tag": {
@@ -72,7 +79,8 @@
     "virtualBlockRef": false,
     "virtualBlockRefExclude": "",
     "blockRefDynamicAnchorTextMaxLen": 96,
-    "plantUMLServePath": "https://www.plantuml.com/plantuml/svg/~1"
+    "plantUMLServePath": "https://www.plantuml.com/plantuml/svg/~1",
+    "fullWidth": false
   },
   "export": {
     "paragraphBeginningSpace": false,
@@ -103,10 +111,10 @@
         "super": false
       },
       "d3": {
-        "nodeSize": 15,
+        "nodeSize": 16,
         "linkWidth": 8,
         "lineOpacity": 0.36,
-        "centerStrength": 0.01,
+        "centerStrength": 0.015,
         "collideRadius": 600,
         "collideStrength": 0.08,
         "linkDistance": 400,
@@ -129,10 +137,10 @@
         "super": false
       },
       "d3": {
-        "nodeSize": 15,
+        "nodeSize": 16,
         "linkWidth": 8,
         "lineOpacity": 0.36,
-        "centerStrength": 0.01,
+        "centerStrength": 0.015,
         "collideRadius": 600,
         "collideStrength": 0.08,
         "linkDistance": 400,
@@ -186,17 +194,8 @@
                 {
                   "children": [
                     {
-                      "active": true,
-                      "children": {
-                        "action": "",
-                        "blockId": "20200812220555-lj3enxa",
-                        "instance": "Editor",
-                        "mode": "wysiwyg"
-                      },
-                      "docIcon": "1f389",
-                      "instance": "Tab",
-                      "pin": false,
-                      "title": "请从这里开始"
+                      "children": {},
+                      "instance": "Tab"
                     }
                   ],
                   "height": "",
@@ -366,17 +365,15 @@
     "127.0.0.1"
   ],
   "accessAuthCode": "",
-  "e2eePasswd": "",
-  "e2eePasswdMode": 0,
   "system": {
     "id": "12e2a00a-e8cc-4005-852b-b8a63affb68a",
-    "kernelVersion": "2.0.23",
+    "kernelVersion": "2.1.3",
     "os": "windows",
     "container": "std",
     "isInsider": false,
     "homeDir": "C:\\Users\\zicai",
     "workspaceDir": "D:\\文档\\SiYuan",
-    "appDir": "C:\\Program Files\\WindowsApps\\89C2A984.SiYuan_2.0.23.0_x64__1qfd3tsw4ngc2\\app\\resources",
+    "appDir": "C:\\Program Files\\WindowsApps\\89C2A984.SiYuan_2.1.3.0_x64__1qfd3tsw4ngc2\\app\\resources",
     "confDir": "D:\\文档\\SiYuan\\conf",
     "dataDir": "D:\\文档\\SiYuan\\data",
     "networkServe": false,
@@ -388,13 +385,10 @@
     "uploadErrLog": false
   },
   "keymap": {},
-  "backup": {},
   "sync": {
     "cloudName": "main",
     "enabled": true,
     "mode": 1,
-    "uploaded": 0,
-    "downloaded": 0,
     "synced": 0,
     "stat": ""
   },
@@ -426,13 +420,13 @@
     "virtualRefDoc": true
   },
   "stat": {
-    "docCount": 0
+    "docCount": 13
   },
   "api": {
     "token": "a68t8dy6fjuhk5eu"
   },
   "repo": {
-    "key": null
+    "key": "bQFNYTAeL5DHVUnNSCpuBV7ra8TebbmxqW3VlsvTeus="
   },
   "newbie": false
 }

@@ -1,0 +1,52 @@
+{
+	"ID": "20220713094706-a01kbzr",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20220713094706-a01kbzr",
+		"title": "红细胞的破坏",
+		"updated": "20220716153721"
+	},
+	"Children": [
+		{
+			"ID": "20220713094706-b7f0a14",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220713094706-b7f0a14",
+				"updated": "20220716153657"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "正常人红细胞的平均寿命为120天。"
+				}
+			]
+		},
+		{
+			"ID": "20220716153701-j38s8re",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220716153701-j38s8re"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "脾和肝是衰老红细胞破坏的主要部位。"
+				}
+			]
+		},
+		{
+			"ID": "20220716153703-zimy6cy",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220716153703-zimy6cy",
+				"updated": "20220716153721"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "脾功能亢进--脾性贫血"
+				}
+			]
+		}
+	]
+}

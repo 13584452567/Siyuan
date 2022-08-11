@@ -1,0 +1,39 @@
+{
+	"ID": "20220717094246-dic55lt",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20220717094246-dic55lt",
+		"title": "血小板",
+		"updated": "20220717094426"
+	},
+	"Children": [
+		{
+			"ID": "20220717094247-n10x8lt",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220717094247-n10x8lt",
+				"updated": "20220717094358"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "无细胞核，呈双面微凸的圆盘状，直径为2~3μm，内存在α-颗粒、致密体等血小板贮存颗粒。"
+				}
+			]
+		},
+		{
+			"ID": "20220717094359-2poh88g",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220717094359-2poh88g",
+				"updated": "20220717094426"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "血小板上有多种糖蛋白（GP），他们具有受体功能。"
+				}
+			]
+		}
+	]
+}

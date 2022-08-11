@@ -1,0 +1,172 @@
+{
+	"ID": "20220710163638-mzsene1",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20220710163638-mzsene1",
+		"title": "红细胞的生理特性",
+		"updated": "20220710165122"
+	},
+	"Children": [
+		{
+			"ID": "20220710163638-vkvneo7",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20220710163638-vkvneo7",
+				"updated": "20220710165009"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "兼双凹圆碟形对红细胞的生理特性的维持有何意义？"
+				}
+			]
+		},
+		{
+			"ID": "20220710165010-hsl9mog",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220710165010-hsl9mog",
+				"updated": "20220710165055"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "成熟的红细胞无核，呈特殊的双凹圆碟形。"
+				}
+			]
+		},
+		{
+			"ID": "20220710165056-ea2o5wq",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20220710165056-ea2o5wq",
+				"updated": "20220710165122"
+			},
+			"Children": [
+				{
+					"ID": "20220710165102-2lsv78l",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20220710165102-2lsv78l",
+						"updated": "20220710165122"
+					},
+					"Children": [
+						{
+							"ID": "20220710165102-fymmboo",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20220710165102-fymmboo",
+								"updated": "20220710165106"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "生理特性"
+								}
+							]
+						},
+						{
+							"ID": "20220710165107-4boh5pw",
+							"Type": "NodeList",
+							"ListData": {},
+							"Properties": {
+								"id": "20220710165107-4boh5pw",
+								"updated": "20220710165122"
+							},
+							"Children": [
+								{
+									"ID": "20220710165107-qncmmu3",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20220710165107-qncmmu3"
+									},
+									"Children": [
+										{
+											"ID": "20220710165107-do5n5nd",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20220710165107-do5n5nd",
+												"updated": "20220710165112"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "可塑变形性"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20220710165114-ib8z5il",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20220710165114-ib8z5il"
+									},
+									"Children": [
+										{
+											"ID": "20220710165114-jnukugq",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20220710165114-jnukugq",
+												"updated": "20220710165117"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "悬浮稳定性"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20220710165117-27nxbe9",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20220710165117-27nxbe9",
+										"updated": "20220710165122"
+									},
+									"Children": [
+										{
+											"ID": "20220710165117-yxdauag",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20220710165117-yxdauag",
+												"updated": "20220710165122"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "渗透脆性"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		}
+	]
+}

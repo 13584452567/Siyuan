@@ -1,0 +1,123 @@
+{
+	"ID": "20220717094600-hvcnjg2",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20220717094600-hvcnjg2",
+		"title": "血小板的粘附",
+		"updated": "20220717102453"
+	},
+	"Children": [
+		{
+			"ID": "20220717094601-p3dr38e",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220717094601-p3dr38e",
+				"updated": "20220717094647"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "platelet adhesion"
+				}
+			]
+		},
+		{
+			"ID": "20220717094649-peu9u3v",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220717094649-peu9u3v",
+				"updated": "20220717094708"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "血小板与非血小板表面的黏着成为血小板黏附"
+				}
+			]
+		},
+		{
+			"ID": "20220717094718-tfrakvx",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220717094718-tfrakvx",
+				"updated": "20220717102121"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "血小板的黏附需要血小板膜上GPⅠb/Ⅸ/Ⅴ复合物、内皮下成分（主要是胶原纤维）和血浆vWF的参与。"
+				}
+			]
+		},
+		{
+			"ID": "20220717102137-eor8src",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220717102137-eor8src",
+				"updated": "20220717102153"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "血小板糖蛋白GPⅠb/Ⅸ/Ⅴ复合物是vWF结合的受体"
+				}
+			]
+		},
+		{
+			"ID": "20220717102157-cwk0ukf",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220717102157-cwk0ukf",
+				"updated": "20220717102215"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "vWF是血小板黏附于胶原纤维的桥梁"
+				}
+			]
+		},
+		{
+			"ID": "20220717102219-xxcrlie",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220717102219-xxcrlie",
+				"updated": "20220717102308"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "vWF只有与胶原纤维结合后发生变构时才能结合与血小板上的GPⅠb/Ⅸ/Ⅴ复合物"
+				}
+			]
+		},
+		{
+			"ID": "20220717102314-rlzocn2",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220717102314-rlzocn2",
+				"updated": "20220717102330"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "通过黏附血小板可识别损伤区域"
+				}
+			]
+		},
+		{
+			"ID": "20220717102335-uxgabyb",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220717102335-uxgabyb",
+				"updated": "20220717102453"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "在GPⅠb/Ⅸ/Ⅴ复合物缺乏（巨大血小板综合征）、vWF缺乏（von Willebrand病）和胶原纤维功能受损，因而可能发生出血倾向。"
+				}
+			]
+		}
+	]
+}

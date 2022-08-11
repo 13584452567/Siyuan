@@ -1,0 +1,46 @@
+{
+	"ID": "20220710170350-4c67jzf",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20220710170350-4c67jzf",
+		"title": "等渗溶液",
+		"updated": "20220713093150"
+	},
+	"Children": [
+		{
+			"ID": "20220710170350-d55u251",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220710170350-d55u251",
+				"updated": "20220713093106"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "iso-osmotic solution"
+				}
+			]
+		},
+		{
+			"ID": "20220713093106-waqn2e7",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220713093106-waqn2e7",
+				"updated": "20220713093150"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "渗透压等于血浆渗透压,如0.9%NaCl和5%葡萄糖"
+				}
+			]
+		},
+		{
+			"ID": "20220713093117-jtw8gue",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220713093117-jtw8gue"
+			}
+		}
+	]
+}

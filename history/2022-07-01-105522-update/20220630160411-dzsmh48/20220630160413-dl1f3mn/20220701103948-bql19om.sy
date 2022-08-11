@@ -1,0 +1,96 @@
+{
+	"ID": "20220701103948-bql19om",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20220701103948-bql19om",
+		"title": "反馈控制",
+		"updated": "20220701105037"
+	},
+	"Children": [
+		{
+			"ID": "20220701103948-nlq0idw",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220701103948-nlq0idw",
+				"updated": "20220701104050"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "反馈：受控部分发出反馈信息影响控制部分"
+				}
+			]
+		},
+		{
+			"ID": "20220701104054-63sg000",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20220701104054-63sg000",
+				"updated": "20220701104112"
+			},
+			"Children": [
+				{
+					"Type": "NodeBlockRef",
+					"Children": [
+						{
+							"Type": "NodeOpenParen"
+						},
+						{
+							"Type": "NodeOpenParen"
+						},
+						{
+							"Type": "NodeBlockRefID",
+							"Data": "20220701104118-pqtobqy"
+						},
+						{
+							"Type": "NodeBlockRefSpace"
+						},
+						{
+							"Type": "NodeBlockRefText",
+							"Data": "负反馈"
+						},
+						{
+							"Type": "NodeCloseParen"
+						},
+						{
+							"Type": "NodeCloseParen"
+						}
+					]
+				},
+				{
+					"Type": "NodeText",
+					"Data": "与"
+				},
+				{
+					"Type": "NodeBlockRef",
+					"Children": [
+						{
+							"Type": "NodeOpenParen"
+						},
+						{
+							"Type": "NodeOpenParen"
+						},
+						{
+							"Type": "NodeBlockRefID",
+							"Data": "20220701104639-nz9rfg4"
+						},
+						{
+							"Type": "NodeBlockRefSpace"
+						},
+						{
+							"Type": "NodeBlockRefText",
+							"Data": "正反馈"
+						},
+						{
+							"Type": "NodeCloseParen"
+						},
+						{
+							"Type": "NodeCloseParen"
+						}
+					]
+				}
+			]
+		}
+	]
+}

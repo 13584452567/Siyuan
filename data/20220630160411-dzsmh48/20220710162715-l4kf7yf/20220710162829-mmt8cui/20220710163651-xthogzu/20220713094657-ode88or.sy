@@ -1,0 +1,84 @@
+{
+	"ID": "20220713094657-ode88or",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20220713094657-ode88or",
+		"title": "红细胞生成的调节",
+		"updated": "20220716153334"
+	},
+	"Children": [
+		{
+			"ID": "20220713094657-5wp8ubg",
+			"Type": "NodeList",
+			"ListData": {
+				"Typ": 1
+			},
+			"Properties": {
+				"id": "20220713094657-5wp8ubg",
+				"updated": "20220716153334"
+			},
+			"Children": [
+				{
+					"ID": "20220716153316-232qqff",
+					"Type": "NodeListItem",
+					"ListData": {
+						"Typ": 1,
+						"Delimiter": 46,
+						"Marker": "MS4=",
+						"Num": 1
+					},
+					"Properties": {
+						"id": "20220716153316-232qqff",
+						"updated": "20220716153316"
+					},
+					"Children": [
+						{
+							"ID": "20220716153316-248uy1n",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20220716153316-248uy1n",
+								"updated": "20220716153316"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "促红细胞生成素"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20220716153318-r6ipz0n",
+					"Type": "NodeListItem",
+					"ListData": {
+						"Typ": 1,
+						"Delimiter": 46,
+						"Marker": "Mi4=",
+						"Num": 2
+					},
+					"Properties": {
+						"id": "20220716153318-r6ipz0n",
+						"updated": "20220716153334"
+					},
+					"Children": [
+						{
+							"ID": "20220716153318-xsont6s",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20220716153318-xsont6s",
+								"updated": "20220716153334"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "影响红细胞生成的其他体液因素"
+								}
+							]
+						}
+					]
+				}
+			]
+		}
+	]
+}

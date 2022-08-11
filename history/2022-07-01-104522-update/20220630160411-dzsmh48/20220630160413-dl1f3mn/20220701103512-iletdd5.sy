@@ -1,0 +1,53 @@
+{
+	"ID": "20220701103512-iletdd5",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20220701103512-iletdd5",
+		"title": "体液调节",
+		"updated": "20220701103837"
+	},
+	"Children": [
+		{
+			"ID": "20220701103512-rw0egb4",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220701103512-rw0egb4",
+				"updated": "20220701103546"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "体内某些特殊的化学物质通过体液途径而影响生理功能"
+				}
+			]
+		},
+		{
+			"ID": "20220701103641-qmged9u",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220701103641-qmged9u",
+				"updated": "20220701103754"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "远距离分泌（telecrine）\n旁分泌（paracrine）\n自分泌（autocrine）\n神经分泌（neurocrine）"
+				}
+			]
+		},
+		{
+			"ID": "20220701103706-kilm9pw",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220701103706-kilm9pw",
+				"updated": "20220701103837"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "特点：速度慢、作用范围广、持续时间长\n适合生长发育等需要持续调节的生理过程"
+				}
+			]
+		}
+	]
+}

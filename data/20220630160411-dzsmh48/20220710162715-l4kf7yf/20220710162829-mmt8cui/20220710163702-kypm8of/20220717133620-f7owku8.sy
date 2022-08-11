@@ -1,0 +1,39 @@
+{
+	"ID": "20220717133620-f7owku8",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20220717133620-f7owku8",
+		"title": "血小板的吸附",
+		"updated": "20220717133700"
+	},
+	"Children": [
+		{
+			"ID": "20220717133621-qzzq5k5",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220717133621-qzzq5k5",
+				"updated": "20220717133642"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "血小板表面可以吸附血浆中的凝血因子"
+				}
+			]
+		},
+		{
+			"ID": "20220717133647-9lkaqnh",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220717133647-9lkaqnh",
+				"updated": "20220717133700"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "吸附使局部凝血因子浓度升高。"
+				}
+			]
+		}
+	]
+}

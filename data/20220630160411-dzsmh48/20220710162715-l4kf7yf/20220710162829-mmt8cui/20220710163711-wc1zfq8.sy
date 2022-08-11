@@ -1,0 +1,19 @@
+{
+	"ID": "20220710163711-wc1zfq8",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20220710163711-wc1zfq8",
+		"title": "血小板的生理功能",
+		"updated": "20220710163717"
+	},
+	"Children": [
+		{
+			"ID": "20220710163711-ksdgw3w",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220710163711-ksdgw3w",
+				"updated": "20220710163711"
+			}
+		}
+	]
+}

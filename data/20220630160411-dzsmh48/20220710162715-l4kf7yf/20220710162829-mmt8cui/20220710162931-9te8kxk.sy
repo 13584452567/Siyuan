@@ -1,0 +1,252 @@
+{
+	"ID": "20220710162931-9te8kxk",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20220710162931-9te8kxk",
+		"title": "血细胞",
+		"updated": "20220710163143"
+	},
+	"Children": [
+		{
+			"ID": "20220710162931-3cdg7am",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20220710162931-3cdg7am",
+				"updated": "20220710163143"
+			},
+			"Children": [
+				{
+					"ID": "20220710163020-9rgh82j",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20220710163020-9rgh82j",
+						"updated": "20220710163020"
+					},
+					"Children": [
+						{
+							"ID": "20220710163020-4gpvjot",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20220710163020-4gpvjot",
+								"updated": "20220710163024"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "红细胞"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20220710163025-tzxwysp",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20220710163025-tzxwysp"
+					},
+					"Children": [
+						{
+							"ID": "20220710163025-txp9jtt",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20220710163025-txp9jtt",
+								"updated": "20220710163029"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "血小板"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20220710163030-prv9uoi",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20220710163030-prv9uoi",
+						"updated": "20220710163143"
+					},
+					"Children": [
+						{
+							"ID": "20220710163030-g02a4wy",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20220710163030-g02a4wy",
+								"updated": "20220710163041"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "包细胞"
+								}
+							]
+						},
+						{
+							"ID": "20220710163042-hjcwhhv",
+							"Type": "NodeList",
+							"ListData": {},
+							"Properties": {
+								"id": "20220710163042-hjcwhhv",
+								"updated": "20220710163143"
+							},
+							"Children": [
+								{
+									"ID": "20220710163042-lcra9wm",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20220710163042-lcra9wm"
+									},
+									"Children": [
+										{
+											"ID": "20220710163042-q851n21",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20220710163042-q851n21",
+												"updated": "20220710163048"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "中性粒细胞"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20220710163048-rapnmc6",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20220710163048-rapnmc6"
+									},
+									"Children": [
+										{
+											"ID": "20220710163048-jesd6ve",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20220710163048-jesd6ve",
+												"updated": "20220710163125"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "嗜碱性粒细胞"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20220710163127-54feyut",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20220710163127-54feyut"
+									},
+									"Children": [
+										{
+											"ID": "20220710163127-p29vz3z",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20220710163127-p29vz3z",
+												"updated": "20220710163133"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "嗜酸性粒细胞"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20220710163134-qvahnre",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20220710163134-qvahnre"
+									},
+									"Children": [
+										{
+											"ID": "20220710163134-rs1s58z",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20220710163134-rs1s58z",
+												"updated": "20220710163136"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "单核细胞"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20220710163137-8iwfbnc",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20220710163137-8iwfbnc",
+										"updated": "20220710163143"
+									},
+									"Children": [
+										{
+											"ID": "20220710163137-ub90yd6",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20220710163137-ub90yd6",
+												"updated": "20220710163143"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "淋巴细胞"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		}
+	]
+}

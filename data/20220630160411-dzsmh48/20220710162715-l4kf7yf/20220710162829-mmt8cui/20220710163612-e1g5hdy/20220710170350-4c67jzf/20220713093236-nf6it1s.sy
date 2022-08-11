@@ -1,0 +1,39 @@
+{
+	"ID": "20220713093236-nf6it1s",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20220713093236-nf6it1s",
+		"title": "低渗溶液",
+		"updated": "20220713093306"
+	},
+	"Children": [
+		{
+			"ID": "20220713093236-khk5lj6",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220713093236-khk5lj6",
+				"updated": "20220713093253"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "hyposmotic solution"
+				}
+			]
+		},
+		{
+			"ID": "20220713093253-650rvsb",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220713093253-650rvsb",
+				"updated": "20220713093306"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "渗透压低于等渗溶液"
+				}
+			]
+		}
+	]
+}

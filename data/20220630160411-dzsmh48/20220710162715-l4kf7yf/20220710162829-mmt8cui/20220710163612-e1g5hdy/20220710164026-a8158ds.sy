@@ -1,0 +1,38 @@
+{
+	"ID": "20220710164026-a8158ds",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20220710164026-a8158ds",
+		"title": "渗透",
+		"updated": "20220710164053"
+	},
+	"Children": [
+		{
+			"ID": "20220710164026-sei4s23",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220710164026-sei4s23",
+				"updated": "20220710164053"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "Osmosis"
+				}
+			]
+		},
+		{
+			"ID": "20220710164051-niovzwp",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220710164051-niovzwp"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "溶剂分子从溶液的低浓度侧跨过半透膜进入溶液的高浓度侧的过程。"
+				}
+			]
+		}
+	]
+}
