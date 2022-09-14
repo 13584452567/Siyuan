@@ -1,4 +1,6 @@
 {
+  "findInDoc": "${x} matches in ${y} files",
+  "jumpToParentNext": "Jump to the next block in the previous level",
   "initRepoKeyTip": "If the key has been initialized on other devices, please use [Import Key] or generate the key with the same passphrase, otherwise the data cannot be synced to the cloud, so be sure to use the same key on all devices",
   "crossKeepLazyLoad": "Cross-page multi-selection needs to select [Keep Loaded Content] in the more menu",
   "keepLazyLoad": "Keep loaded content",
@@ -780,7 +782,7 @@
     "21": "Please enter the captcha",
     "22": "The captcha is incorrect",
     "23": "The data repo is damaged due to external changes (such as using a third-party real-time synchronization disk), please reset the data repo",
-    "24": "The network is abnormal, please try again later",
+    "24": "Network timed out, please try again later",
     "25": "The attribute name only supports English letters and digits",
     "26": "Please initialize the data repo key first in [Settings - About - Data repo key]",
     "27": "Uploading [%v]",
@@ -841,7 +843,7 @@
     "82": "Synced at %s",
     "83": "The access authorization code is incorrect",
     "84": "Backup failed: %s",
-    "85": "The file is occupied by other programs. Do not use the system file manager to open the workspace folder during operation; do not use a third-party real-time synchronization disk and check whether the workspace folder has write permissions",
+    "85": "The file is being used by other programs %s",
     "86": "Please configure [Settings - About - Access authorization code]",
     "87": "Cannot move to this location",
     "88": "Finished parsing [%d] data files, remaining to be processed [%d]",
@@ -885,13 +887,13 @@
     "126": "Bookmark cannot be empty",
     "127": "There are [%d] days left before the subscription expires, after which the cloud data will be completely deleted. Please visit <a target='_blank' href='https://ld246.com/subscribe/siyuan for renewal '>Here</a>, if you don't need to renew, please log out of your account to close the reminder",
     "128": "Subscription has expired, cloud data will be completely deleted after expiration. To renew, please visit <a target='_blank' href='https://ld246.com/subscribe/siyuan'>here</a> , if you don't need to renew, please log out of your account to close the reminder",
-    "129": "TODO",
+    "129": "Cloud data has been corrupted, please refer to <a href=\"https://ld246.com/article/1658499492287\" target=\"_blank\">here</a> to resolve the issue",
     "130": "TODO",
     "131": "TODO",
     "132": "TODO",
     "133": "TODO",
     "134": "In order to prevent the newly restored data from being overwritten by synchronization, the data synchronization function has been automatically suspended",
-    "135": "TODO",
+    "135": "Unable to decrypt data. Make sure to use the same key on multiple devices, then create a new cloud directory to sync",
     "136": "Initializing data repository key...",
     "137": "Failed to initialize data repository key: %s",
     "138": "Data repository key is set",
@@ -927,7 +929,6 @@
     "168": "Uploading data repo snapshot %s",
     "169": "Uploading data repo file %v",
     "170": "Uploading data repo chunk %v",
-    "171": "Uploading data repo reference %s",
-    "172": "Data repo key does not match, data cannot be decrypted"
+    "171": "Uploading data repo reference %s"
   }
 }

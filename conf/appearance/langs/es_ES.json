@@ -1,4 +1,6 @@
 {
+  "findInDoc": "${x} coincidencias en ${y} archivos",
+  "jumpToParentNext": "Saltar al siguiente bloque en el nivel anterior",
   "initRepoKeyTip": "Si la clave se ha inicializado en otros dispositivos, use [Importar la clave] o genere la clave con la misma contraseña; de lo contrario, los datos no se pueden sincronizar con la nube, así que asegúrese de usar la misma clave en todos los dispositivos.",
   "crossKeepLazyLoad": "La selección múltiple entre páginas debe seleccionar [Mantener contenido cargado] en el menú más",
   "keepLazyLoad": "Mantener el contenido cargado",
@@ -780,7 +782,7 @@
     "21": "Por favor ingrese el captcha",
     "22": "El captcha es incorrecto",
     "23": "El repositorio de datos está dañado debido a cambios externos (como el uso de un disco de sincronización en tiempo real de terceros), restablezca el repositorio de datos",
-    "24": "La red es anómala, inténtalo de nuevo más tarde",
+    "24": "Se agotó el tiempo de espera de la red. Vuelva a intentarlo más tarde.",
     "25": "El nombre del atributo sólo admite letras y dígitos en inglés",
     "26": "Por favor, inicialice primero la clave de repositorio de datos en [Configuración - Acerca de - Clave de repositorio de datos]",
     "27": "Subiendo [%v]",
@@ -841,7 +843,7 @@
     "82": "Sincronizado en %s",
     "83": "El código de autorización de acceso es incorrecto",
     "84": "Copia de seguridad fallida: %s",
-    "85": "El archivo está ocupado por otros programas. No utilice el administrador de archivos del sistema para abrir la carpeta del área de trabajo durante el funcionamiento; no utilice un disco de sincronización en tiempo real de terceros y compruebe si la carpeta del área de trabajo tiene permisos de escritura",
+    "85": "El archivo está siendo utilizado por otros programas %s",
     "86": "Por favor, configure [Configuración - Acerca de - Código de autorización de acceso]",
     "87": "No se puede mover a esta ubicación",
     "88": "Se ha terminado de analizar [%d] archivos de datos, quedan por procesar [%d]",
@@ -885,13 +887,13 @@
     "126": "El marcador no puede estar vacío",
     "127": "There are [%d] days left before the subscription expires, after which the cloud data will be completely deleted. Please visit <a target='_blank' href='https://ld246.com/subscribe/siyuan'>Aquí</a> para la renovación, si no necesita renovar, salga de su cuenta para cerrar el recordatorio",
     "128": "La suscripción ha caducado, los datos de la nube se eliminarán completamente después de la expiración. Para renovar, visite <a target='_blank' href='https://ld246.com/subscribe/siyuan'>Aquí</a>, si no necesita renovar, salga de su cuenta para cerrar el recordatorio",
-    "129": "TODO",
+    "129": "Los datos de la nube se han dañado, consulte <a href=\"https://ld246.com/article/1658499492287\" target=\"_blank\">aquí</a> para resolver el problema",
     "130": "TODO",
     "131": "TODO",
     "132": "TODO",
     "133": "TODO",
     "134": "Para evitar que los datos recién restaurados sean sobrescritos por la sincronización, se ha suspendido automáticamente la función de sincronización de datos",
-    "135": "TODO",
+    "135": "No se pueden descifrar los datos. Asegúrese de usar la misma clave en varios dispositivos, luego cree un nuevo directorio en la nube para sincronizar",
     "136": "Inicializando la clave del repositorio de datos...",
     "137": "Fallo en la inicialización de la clave del repositorio de datos: %s",
     "138": "La clave del repositorio de datos está configurada",
@@ -927,7 +929,6 @@
     "168": "Cargando instantánea de repositorio de datos %s",
     "169": "Cargando archivo de repositorio de datos %v",
     "170": "Cargando fragmento de repositorio de datos %v",
-    "171": "Cargando referencia de repositorio de datos %s",
-    "172": "La clave del repositorio de datos no coincide, los datos no se pueden descifrar"
+    "171": "Cargando referencia de repositorio de datos %s"
   }
 }
