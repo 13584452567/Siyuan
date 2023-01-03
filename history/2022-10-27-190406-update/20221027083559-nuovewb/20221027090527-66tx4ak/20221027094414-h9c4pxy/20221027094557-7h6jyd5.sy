@@ -1,0 +1,473 @@
+{
+	"ID": "20221027094557-7h6jyd5",
+	"Spec": "1",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20221027094557-7h6jyd5",
+		"title": "TST",
+		"updated": "20221027185834"
+	},
+	"Children": [
+		{
+			"ID": "20221027094600-yp3qywj",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20221027094600-yp3qywj",
+				"updated": "20221027094600"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "悬尾实验装置介绍"
+				}
+			]
+		},
+		{
+			"ID": "20221027094600-3ex7uhw",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027094600-3ex7uhw",
+				"updated": "20221027094600"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "悬尾实验装置可用于建立应激抑郁症模型、后肢去负荷模型、骨质流失等模型；在抑郁方面的研究中，悬尾实验(tail suspension test，tst)是一种经典而又能快速评价抗抑郁药物、兴奋药物、镇静药物药效的方法。其原理是利用小鼠悬尾后企图逃脱但又无法逃脱，从而放弃挣扎，进入特有的抑郁不动状态，实验过程中记录动物不动时间来反映抑郁状态，抗抑郁药物、兴奋药物能明显地缩短改变其状态。"
+				}
+			]
+		},
+		{
+			"ID": "20221027094600-lask8qt",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027094600-lask8qt",
+				"updated": "20221027185834"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "实验时，将小鼠尾部后1/3处用胶带固定，悬挂于支架上，头部距离台面15cm，进行摄像，摄像背景与小鼠毛色呈明显反差，白色小鼠采用黑色背景，计时6min后停止。"
+				}
+			]
+		},
+		{
+			"ID": "20221027094600-lwta5yd",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20221027094600-lwta5yd",
+				"updated": "20221027094600"
+			},
+			"Children": [
+				{
+					"Type": "NodeTextMark",
+					"TextMarkType": "strong",
+					"TextMarkTextContent": "悬尾实验的测试时长"
+				}
+			]
+		},
+		{
+			"ID": "20221027094600-f1abfvd",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027094600-f1abfvd",
+				"updated": "20221027094600"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "悬尾实验通常做小鼠测试的比较多，整个实验的单次测试时长通常为6min，统计数据时通常取后5min的数据指标（VisuTrack软件可自动截取）。"
+				}
+			]
+		},
+		{
+			"ID": "20221027094600-2gfpuc0",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20221027094600-2gfpuc0",
+				"updated": "20221027094600"
+			},
+			"Children": [
+				{
+					"Type": "NodeTextMark",
+					"TextMarkType": "strong",
+					"TextMarkTextContent": "悬尾测试注意事项"
+				}
+			]
+		},
+		{
+			"ID": "20221027094600-krilk9h",
+			"Type": "NodeList",
+			"ListData": {
+				"Typ": 1
+			},
+			"Properties": {
+				"id": "20221027094600-krilk9h",
+				"updated": "20221027094600"
+			},
+			"Children": [
+				{
+					"ID": "20221027094600-bwczk5v",
+					"Type": "NodeListItem",
+					"ListData": {
+						"Typ": 1,
+						"Delimiter": 46,
+						"Marker": "MS4=",
+						"Num": 1
+					},
+					"Properties": {
+						"id": "20221027094600-bwczk5v",
+						"updated": "20221027094600"
+					},
+					"Children": [
+						{
+							"ID": "20221027094600-4ylzyak",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20221027094600-4ylzyak",
+								"updated": "20221027094600"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "TST 悬尾实验不建议用较重的大鼠，因为大鼠只能通过它们的尾巴来支持它们的体重，这对大鼠来说是痛苦的。同样的道理，应该注意避免使用异常重的小鼠（例如用于模拟肥胖的小鼠），在这种情况下，实验者应该寻找替代性的测试，例如"
+								},
+								{
+									"Type": "NodeTextMark",
+									"TextMarkType": "a",
+									"TextMarkAHref": "https://link.zhihu.com/?target=http%3A//www.softmaze.com/s02/product/2011/05/17/11313513.html",
+									"TextMarkTextContent": "强迫游泳"
+								},
+								{
+									"Type": "NodeText",
+									"Data": "实验。"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20221027094600-opp02lx",
+					"Type": "NodeListItem",
+					"ListData": {
+						"Typ": 1,
+						"Delimiter": 46,
+						"Marker": "Mi4=",
+						"Num": 2
+					},
+					"Properties": {
+						"id": "20221027094600-opp02lx",
+						"updated": "20221027094600"
+					},
+					"Children": [
+						{
+							"ID": "20221027094600-2sycvzk",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20221027094600-2sycvzk",
+								"updated": "20221027094600"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "动物从居住环境带入实验环境应适应一段时间，通常至少一个小时。"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20221027094600-o4zov0f",
+					"Type": "NodeListItem",
+					"ListData": {
+						"Typ": 1,
+						"Delimiter": 46,
+						"Marker": "My4=",
+						"Num": 3
+					},
+					"Properties": {
+						"id": "20221027094600-o4zov0f",
+						"updated": "20221027094600"
+					},
+					"Children": [
+						{
+							"ID": "20221027094600-71lapfn",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20221027094600-71lapfn",
+								"updated": "20221027094600"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "实验环境应保持安静，突然大的噪音会使小鼠惊慌失措。"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20221027094600-uf3i1pk",
+					"Type": "NodeListItem",
+					"ListData": {
+						"Typ": 1,
+						"Delimiter": 46,
+						"Marker": "NC4=",
+						"Num": 4
+					},
+					"Properties": {
+						"id": "20221027094600-uf3i1pk",
+						"updated": "20221027094600"
+					},
+					"Children": [
+						{
+							"ID": "20221027094600-tw9ohuh",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20221027094600-tw9ohuh",
+								"updated": "20221027094600"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "使用软件分析时，选择*佳"
+								},
+								{
+									"Type": "NodeTextMark",
+									"TextMarkType": "a",
+									"TextMarkAHref": "https://www.zhihu.com/search?q=%E5%AF%B9%E6%AF%94%E5%BA%A6\u0026search_source=Entity\u0026hybrid_search_source=Entity\u0026hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A2390625342%7D",
+									"TextMarkTextContent": "对比度"
+								},
+								{
+									"Type": "NodeText",
+									"Data": "的背景：白鼠使用黑色背景，"
+								},
+								{
+									"Type": "NodeTextMark",
+									"TextMarkType": "a",
+									"TextMarkAHref": "https://www.zhihu.com/search?q=%E9%BB%91%E9%BC%A0\u0026search_source=Entity\u0026hybrid_search_source=Entity\u0026hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A2390625342%7D",
+									"TextMarkTextContent": "黑鼠"
+								},
+								{
+									"Type": "NodeText",
+									"Data": "使用白色背景；也可选择使用由上海欣软信息科技有限公司生产的带背光板的专业悬尾实验设备；对老鼠的颜色没有要求，更可拍摄出高质量，高对比度的实验录像。"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20221027094600-sszhn25",
+					"Type": "NodeListItem",
+					"ListData": {
+						"Typ": 1,
+						"Delimiter": 46,
+						"Marker": "NS4=",
+						"Num": 5
+					},
+					"Properties": {
+						"id": "20221027094600-sszhn25",
+						"updated": "20221027094600"
+					},
+					"Children": [
+						{
+							"ID": "20221027094600-6dzk97i",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20221027094600-6dzk97i",
+								"updated": "20221027094600"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "每只小鼠的实验空间多大？参考空间在 55 高*15 宽*11.5 cm 左右，多通量实验时，为防止动物彼此观察或互相影响，中间用隔板隔开；动物悬挂在隔间中间，宽度和深度足够大，不能与墙壁接触。"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20221027094600-c11aptv",
+					"Type": "NodeListItem",
+					"ListData": {
+						"Typ": 1,
+						"Delimiter": 46,
+						"Marker": "Ni4=",
+						"Num": 6
+					},
+					"Properties": {
+						"id": "20221027094600-c11aptv",
+						"updated": "20221027094600"
+					},
+					"Children": [
+						{
+							"ID": "20221027094600-icmdh2s",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20221027094600-icmdh2s",
+								"updated": "20221027094600"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "悬挂后动物鼻尖与设备地板之前的距离多少？参考距离在 20~25 cm 左右。"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20221027094600-ghntq8y",
+					"Type": "NodeListItem",
+					"ListData": {
+						"Typ": 1,
+						"Delimiter": 46,
+						"Marker": "Ny4=",
+						"Num": 7
+					},
+					"Properties": {
+						"id": "20221027094600-ghntq8y",
+						"updated": "20221027094600"
+					},
+					"Children": [
+						{
+							"ID": "20221027094600-d0dddlw",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20221027094600-d0dddlw",
+								"updated": "20221027094600"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "底部建议放置一个可拆卸的拖盘，收集粪便或尿液。"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20221027094600-apq1k8n",
+					"Type": "NodeListItem",
+					"ListData": {
+						"Typ": 1,
+						"Delimiter": 46,
+						"Marker": "OC4=",
+						"Num": 8
+					},
+					"Properties": {
+						"id": "20221027094600-apq1k8n",
+						"updated": "20221027094600"
+					},
+					"Children": [
+						{
+							"ID": "20221027094600-l8i5sc5",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20221027094600-l8i5sc5",
+								"updated": "20221027094600"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "悬挂用的胶带应牢固地粘贴在小鼠尾部和悬挂杆上，并且足够坚固以承受正在测试的小鼠的重量。但是，胶带不应该过于粘滞，因为在实验结束会从尾部移除。胶带尺寸应统一，长度 17 厘米，从一端 2 厘米做标记。这个 2 厘米的部分用于将胶带连接到尾部，而剩余的 15 厘米用于悬挂小鼠；胶带应贴在尾部的尾端，尾部留 2-3 毫米的距离。"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20221027094600-x2yyfuv",
+					"Type": "NodeListItem",
+					"ListData": {
+						"Typ": 1,
+						"Delimiter": 46,
+						"Marker": "OS4=",
+						"Num": 9
+					},
+					"Properties": {
+						"id": "20221027094600-x2yyfuv",
+						"updated": "20221027094600"
+					},
+					"Children": [
+						{
+							"ID": "20221027094600-kbei8r7",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20221027094600-kbei8r7",
+								"updated": "20221027094600"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "尾巴攀爬阻止器，小鼠在实验过程，会出现追求和攀爬它们自己的尾巴的现象，这是个普遍的问题。解决方法很简单，而且非常有效：将一段塑料管切成 4 cm 长中空圆柱体（"
+								},
+								{
+									"Type": "NodeTextMark",
+									"TextMarkType": "a",
+									"TextMarkAHref": "https://www.zhihu.com/search?q=%E5%86%85%E5%BE%84\u0026search_source=Entity\u0026hybrid_search_source=Entity\u0026hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A2390625342%7D",
+									"TextMarkTextContent": "内径"
+								},
+								{
+									"Type": "NodeText",
+									"Data": " 1.3 cm 左右，1.5 g）放置在小鼠尾巴周围就能防止这种尾巴爬行行为。注意的是，在没有使用阻止器之前，已经成功爬上尾巴的小鼠知道逃生是可能的。因此应将这类小鼠排除。"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20221027094600-7m36b10",
+					"Type": "NodeListItem",
+					"ListData": {
+						"Typ": 1,
+						"Delimiter": 46,
+						"Marker": "MTAu",
+						"Num": 10
+					},
+					"Properties": {
+						"id": "20221027094600-7m36b10",
+						"updated": "20221027094600"
+					},
+					"Children": [
+						{
+							"ID": "20221027094600-2l065u9",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20221027094600-2l065u9",
+								"updated": "20221027094600"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "分析时仅有前肢但没有后肢介入的小动作可判断为不动；因惯性产生的摆动可判断为不动；"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20221027094600-c1labb6",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027094600-c1labb6",
+				"updated": "20221027094600"
+			},
+			"Children": [
+				{
+					"Type": "NodeTextMark",
+					"TextMarkType": "strong",
+					"TextMarkTextContent": "悬尾实验（Tail suspension test, TST）"
+				},
+				{
+					"Type": "NodeText",
+					"Data": "是一种经典而又能快速评价抗抑郁药物、兴奋药物、镇静药物药效的方法。其原理是利用小鼠悬尾后企图逃脱但又无法逃脱，从而放弃挣扎，进入特有的抑郁不动状态，实验过程中记录动物不动时间来反映抑郁状态，抗抑郁药物、兴奋药物能明显地缩短改变其状态。"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"ID": "20221027090527-66tx4ak",
+	"Spec": "1",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20221027090527-66tx4ak",
+		"title": "行为分析",
+		"updated": "20221027090539"
+	},
+	"Children": [
+		{
+			"ID": "20221027090527-4mf3o80",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027090527-4mf3o80",
+				"updated": "20221027090527"
+			}
+		}
+	]
+}

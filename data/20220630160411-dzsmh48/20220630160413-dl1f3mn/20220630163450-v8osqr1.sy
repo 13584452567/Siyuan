@@ -1,5 +1,6 @@
 {
 	"ID": "20220630163450-v8osqr1",
+	"Spec": "1",
 	"Type": "NodeDocument",
 	"Properties": {
 		"id": "20220630163450-v8osqr1",
@@ -73,31 +74,11 @@
 			"Children": [
 				{
 					"Type": "NodeText",
-					"Data": "温度：37℃上下\npH：7.35"
-				},
-				{
-					"Type": "NodeBackslash",
-					"Data": "span",
-					"Children": [
-						{
-							"Type": "NodeBackslashContent",
-							"Data": "~"
-						}
-					]
+					"Data": "温度：37℃上下\npH：7.35~"
 				},
 				{
 					"Type": "NodeText",
-					"Data": "7.45\n渗透压：280"
-				},
-				{
-					"Type": "NodeBackslash",
-					"Data": "span",
-					"Children": [
-						{
-							"Type": "NodeBackslashContent",
-							"Data": "~"
-						}
-					]
+					"Data": "7.45\n渗透压：280~"
 				},
 				{
 					"Type": "NodeText",

@@ -1,0 +1,40 @@
+{
+	"ID": "20221027105221-ngtrsh4",
+	"Spec": "1",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20221027105221-ngtrsh4",
+		"title": "表达检测",
+		"updated": "20221027200134"
+	},
+	"Children": [
+		{
+			"ID": "20221027105229-4ryx52h",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027105229-4ryx52h"
+			}
+		},
+		{
+			"ID": "20221027105221-pgmsnsz",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027105221-pgmsnsz",
+				"updated": "20221027200134"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "为了确定不同小鼠品系中 VGLUT3 表达水平的变化是否由遗传差异引起，我们对启动子区和第 1 外显子进行了 2540 bp 的测序，对编码VGLUT3 的基因 Slc17a8 的最后一个编码外显子和第 3个非翻译 区(30-UTR)进行了 4098 bp 的测序。每个品系使用 5 只小鼠。使用 DirectPCR 裂解试剂(Viagen Biotech Inc.， Los  Angeles, California)和 0.2 mg/mL 蛋白酶 K 溶液从小鼠尾巴中提取基 因组 DNA。Slc17a8 (NM_182959.3)的启动子区和外显子 1 侧边区 分别位于转录起始位点上游 1770 bp、外显子 1 上游 451 bp 和外显 子 1 下游 319 bp 处。最后一个外显子及其侧翼区被定义为 第 12 外显子上游 809-bp，第 12 外显子 2638 bp。其中 30-UTR 的 2296 bp，转录结束下游 651 bp。这些区域通过聚合酶链反应(PCR) 进行扩增，并使用 BigDye Terminator v3.1 循环测序试剂盒(Thermo  Fisher Scientific, Carlsbad, California) 进 行 测 序，使用 BigDye  XTerminator 纯化试剂盒(Thermo Fisher Scientific)进行纯化后，在16毛细管ABI PRISM 3130xl 遗传分析仪上运行。色谱图使用 Genalys 2.8.2b 软件进行分析。27 所有用于 PCR 扩增和序列分析的 引物均可按要求提供。我们使用的是 TargetScanMouse 7.128 检查已 识别的单核苷酸多态性 (SNP)是否可能影响保守的哺乳动物 microRNA (miRNA)调控靶位点，并使用 MAPPER229 研究结合位 点的潜在变化。"
+				}
+			]
+		},
+		{
+			"ID": "20221027184455-7fj9kwl",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027184455-7fj9kwl"
+			}
+		}
+	]
+}

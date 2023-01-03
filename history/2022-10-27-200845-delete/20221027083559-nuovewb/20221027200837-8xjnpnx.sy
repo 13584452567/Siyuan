@@ -1,0 +1,20 @@
+{
+	"ID": "20221027200837-8xjnpnx",
+	"Spec": "1",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20221027200837-8xjnpnx",
+		"title": "Untitled",
+		"updated": "20221027200837"
+	},
+	"Children": [
+		{
+			"ID": "20221027200837-airpo7l",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027200837-airpo7l",
+				"updated": "20221027200837"
+			}
+		}
+	]
+}

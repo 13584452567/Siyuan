@@ -339,3 +339,323 @@ I 2022/09/01 09:27:46 serve.go:79: kernel is booting [http://127.0.0.1:6806]
 I 2022/09/01 09:27:46 conf.go:527: database size [807 kB], block count [338]
 I 2022/09/01 09:27:46 working.go:147: kernel booted
 I 2022/09/01 09:29:11 conf.go:370: exited kernel
+I 2022/09/22 22:29:23 working.go:106: 
+      ___                                   ___           ___           ___
+     /  /\        ___           ___        /__/\         /  /\         /__/\
+    /  /:/_      /  /\         /__/|       \  \:\       /  /::\        \  \:\
+   /  /:/ /\    /  /:/        |  |:|        \  \:\     /  /:/\:\        \  \:\
+  /  /:/ /::\  /__/::\        |  |:|    ___  \  \:\   /  /:/~/::\   _____\__\:\
+ /__/:/ /:/\:\ \__\/\:\__   __|__|:|   /__/\  \__\:\ /__/:/ /:/\:\ /__/::::::::\
+ \  \:\/:/~/:/    \  \:\/\ /__/::::\   \  \:\ /  /:/ \  \:\/:/__\/ \  \:\~~\~~\/
+  \  \::/ /:/      \__\::/    ~\~~\:\   \  \:\  /:/   \  \::/       \  \:\  ~~~
+   \__\/ /:/       /__/:/       \  \:\   \  \:\/:/     \  \:\        \  \:\
+     /__/:/        \__\/         \__\/    \  \::/       \  \:\        \  \:\
+     \__\/                                 \__\/         \__\/         \__\/
+I 2022/09/22 22:29:23 runtime.go:47: kernel is booting:
+    * ver [2.1.13]
+    * arch [amd64]
+    * runtime mode [prod]
+    * working directory [C:\Program Files\WindowsApps\89C2A984.SiYuan_2.1.13.0_x64__1qfd3tsw4ngc2\app\resources]
+    * read only [false]
+    * container [std]
+    * database [ver=20220501]
+    * workspace directory [D:\文档\SiYuan, data 219 kB]
+I 2022/09/22 22:29:23 serve.go:79: kernel is booting [http://127.0.0.1:6806]
+I 2022/09/22 22:29:23 conf.go:529: database size [807 kB], tree/block count [54/338]
+I 2022/09/22 22:29:23 working.go:146: kernel booted
+I 2022/09/22 22:30:37 conf.go:370: exited kernel
+I 2022/10/27 08:35:47 working.go:111: 
+      ___                                   ___           ___           ___
+     /  /\        ___           ___        /__/\         /  /\         /__/\
+    /  /:/_      /  /\         /__/|       \  \:\       /  /::\        \  \:\
+   /  /:/ /\    /  /:/        |  |:|        \  \:\     /  /:/\:\        \  \:\
+  /  /:/ /::\  /__/::\        |  |:|    ___  \  \:\   /  /:/~/::\   _____\__\:\
+ /__/:/ /:/\:\ \__\/\:\__   __|__|:|   /__/\  \__\:\ /__/:/ /:/\:\ /__/::::::::\
+ \  \:\/:/~/:/    \  \:\/\ /__/::::\   \  \:\ /  /:/ \  \:\/:/__\/ \  \:\~~\~~\/
+  \  \::/ /:/      \__\::/    ~\~~\:\   \  \:\  /:/   \  \::/       \  \:\  ~~~
+   \__\/ /:/       /__/:/       \  \:\   \  \:\/:/     \  \:\        \  \:\
+     /__/:/        \__\/         \__\/    \  \::/       \  \:\        \  \:\
+     \__\/                                 \__\/         \__\/         \__\/
+I 2022/10/27 08:35:47 runtime.go:47: kernel is booting:
+    * ver [2.4.0]
+    * arch [amd64]
+    * runtime mode [prod]
+    * working directory [C:\Program Files\WindowsApps\89C2A984.SiYuan_2.4.0.0_x64__1qfd3tsw4ngc2\app\resources]
+    * read only [false]
+    * container [std]
+    * database [ver=20220501]
+    * workspace directory [D:\文档\SiYuan, data 219 kB]
+I 2022/10/27 08:35:47 conf.go:226: using Microsoft Store edition
+I 2022/10/27 08:35:47 serve.go:79: kernel is booting [http://127.0.0.1:6806]
+I 2022/10/27 08:35:47 conf.go:578: database size [807 kB], tree/block count [54/338]
+I 2022/10/27 08:35:47 working.go:151: kernel booted
+I 2022/10/27 08:35:49 working.go:501: initialized built-in pandoc [ver=2.19.2, bin=D:\文档\SiYuan\temp\pandoc\bin\pandoc.exe]
+I 2022/10/27 08:35:59 index.go:180: rebuilt database for notebook [20221027083559-nuovewb] in [0.02s], tree [count=0, size=0 B]
+I 2022/10/27 08:35:59 tree.go:232: migrated tree [D:\文档\SiYuan\data\20220630160411-dzsmh48\20220630160413-dl1f3mn\20220630163450-v8osqr1.sy] from spec [] to [1]
+I 2022/10/27 08:35:59 tree.go:232: migrated tree [D:\文档\SiYuan\data\20220630160411-dzsmh48\20220630160413-dl1f3mn\20220701103012-uisfceu.sy] from spec [] to [1]
+I 2022/10/27 08:35:59 tree.go:232: migrated tree [D:\文档\SiYuan\data\20220630160411-dzsmh48\20220630160413-dl1f3mn\20220701103512-iletdd5.sy] from spec [] to [1]
+I 2022/10/27 08:35:59 tree.go:232: migrated tree [D:\文档\SiYuan\data\20220630160411-dzsmh48\20220630160413-dl1f3mn\20220701103948-bql19om.sy] from spec [] to [1]
+I 2022/10/27 08:35:59 tree.go:232: migrated tree [D:\文档\SiYuan\data\20220630160411-dzsmh48\20220630160413-dl1f3mn.sy] from spec [] to [1]
+I 2022/10/27 08:36:00 index.go:317: resolved refs [15] in [82ms]
+I 2022/10/27 08:36:16 conf.go:363: exiting kernel [force=false, execInstallPkg=0]
+I 2022/10/27 08:36:16 database.go:1122: closed database
+I 2022/10/27 08:36:16 conf.go:660: cleared workspace temp
+I 2022/10/27 08:36:17 conf.go:405: exited kernel
+I 2022/10/27 08:36:19 working.go:111: 
+      ___                                   ___           ___           ___
+     /  /\        ___           ___        /__/\         /  /\         /__/\
+    /  /:/_      /  /\         /__/|       \  \:\       /  /::\        \  \:\
+   /  /:/ /\    /  /:/        |  |:|        \  \:\     /  /:/\:\        \  \:\
+  /  /:/ /::\  /__/::\        |  |:|    ___  \  \:\   /  /:/~/::\   _____\__\:\
+ /__/:/ /:/\:\ \__\/\:\__   __|__|:|   /__/\  \__\:\ /__/:/ /:/\:\ /__/::::::::\
+ \  \:\/:/~/:/    \  \:\/\ /__/::::\   \  \:\ /  /:/ \  \:\/:/__\/ \  \:\~~\~~\/
+  \  \::/ /:/      \__\::/    ~\~~\:\   \  \:\  /:/   \  \::/       \  \:\  ~~~
+   \__\/ /:/       /__/:/       \  \:\   \  \:\/:/     \  \:\        \  \:\
+     /__/:/        \__\/         \__\/    \  \::/       \  \:\        \  \:\
+     \__\/                                 \__\/         \__\/         \__\/
+I 2022/10/27 08:36:19 runtime.go:47: kernel is booting:
+    * ver [2.4.0]
+    * arch [amd64]
+    * runtime mode [prod]
+    * working directory [C:\Program Files\WindowsApps\89C2A984.SiYuan_2.4.0.0_x64__1qfd3tsw4ngc2\app\resources]
+    * read only [false]
+    * container [std]
+    * database [ver=20220501]
+    * workspace directory [D:\文档\SiYuan, data 227 kB]
+I 2022/10/27 08:36:19 conf.go:226: using Microsoft Store edition
+I 2022/10/27 08:36:19 serve.go:79: kernel is booting [http://127.0.0.1:6806]
+I 2022/10/27 08:36:19 working.go:478: built-in pandoc [ver=2.19.2, bin=D:\文档\SiYuan\temp\pandoc\bin\pandoc.exe]
+I 2022/10/27 08:36:19 conf.go:578: database size [807 kB], tree/block count [54/338]
+I 2022/10/27 08:36:19 working.go:151: kernel booted
+I 2022/10/27 08:36:21 conf.go:363: exiting kernel [force=false, execInstallPkg=0]
+I 2022/10/27 08:36:21 database.go:1122: closed database
+I 2022/10/27 08:36:21 conf.go:660: cleared workspace temp
+I 2022/10/27 08:36:22 conf.go:405: exited kernel
+I 2022/10/27 08:37:34 working.go:115: 
+      ___                                   ___           ___           ___
+     /  /\        ___           ___        /__/\         /  /\         /__/\
+    /  /:/_      /  /\         /__/|       \  \:\       /  /::\        \  \:\
+   /  /:/ /\    /  /:/        |  |:|        \  \:\     /  /:/\:\        \  \:\
+  /  /:/ /::\  /__/::\        |  |:|    ___  \  \:\   /  /:/~/::\   _____\__\:\
+ /__/:/ /:/\:\ \__\/\:\__   __|__|:|   /__/\  \__\:\ /__/:/ /:/\:\ /__/::::::::\
+ \  \:\/:/~/:/    \  \:\/\ /__/::::\   \  \:\ /  /:/ \  \:\/:/__\/ \  \:\~~\~~\/
+  \  \::/ /:/      \__\::/    ~\~~\:\   \  \:\  /:/   \  \::/       \  \:\  ~~~
+   \__\/ /:/       /__/:/       \  \:\   \  \:\/:/     \  \:\        \  \:\
+     /__/:/        \__\/         \__\/    \  \::/       \  \:\        \  \:\
+     \__\/                                 \__\/         \__\/         \__\/
+I 2022/10/27 08:37:34 runtime.go:47: kernel is booting:
+    * ver [2.4.6]
+    * arch [amd64]
+    * resident [false]
+    * pid [16340]
+    * runtime mode [prod]
+    * working directory [C:\Program Files\WindowsApps\89C2A984.SiYuan_2.4.6.0_x64__1qfd3tsw4ngc2\app\resources]
+    * read only [false]
+    * container [std]
+    * database [ver=20220501]
+    * workspace directory [D:\文档\SiYuan, data 227 kB]
+I 2022/10/27 08:37:34 conf.go:227: using Microsoft Store edition
+I 2022/10/27 08:37:34 working.go:430: built-in pandoc [ver=2.19.2, bin=D:\文档\SiYuan\temp\pandoc\bin\pandoc.exe]
+I 2022/10/27 08:37:35 serve.go:106: kernel [pid=16340] is booting [http://127.0.0.1:10381]
+I 2022/10/27 08:37:35 serve.go:114: kernel reverse proxy server [6806] is booting
+I 2022/10/27 08:37:41 conf.go:587: database size [807 kB], tree/block count [54/338]
+I 2022/10/27 08:37:41 working.go:153: kernel booted
+I 2022/10/27 09:02:35 conf.go:371: exiting kernel [force=false, execInstallPkg=0]
+I 2022/10/27 09:02:35 database.go:1122: closed database
+I 2022/10/27 09:02:35 conf.go:697: cleared workspace temp
+I 2022/10/27 09:03:19 working.go:115: 
+      ___                                   ___           ___           ___
+     /  /\        ___           ___        /__/\         /  /\         /__/\
+    /  /:/_      /  /\         /__/|       \  \:\       /  /::\        \  \:\
+   /  /:/ /\    /  /:/        |  |:|        \  \:\     /  /:/\:\        \  \:\
+  /  /:/ /::\  /__/::\        |  |:|    ___  \  \:\   /  /:/~/::\   _____\__\:\
+ /__/:/ /:/\:\ \__\/\:\__   __|__|:|   /__/\  \__\:\ /__/:/ /:/\:\ /__/::::::::\
+ \  \:\/:/~/:/    \  \:\/\ /__/::::\   \  \:\ /  /:/ \  \:\/:/__\/ \  \:\~~\~~\/
+  \  \::/ /:/      \__\::/    ~\~~\:\   \  \:\  /:/   \  \::/       \  \:\  ~~~
+   \__\/ /:/       /__/:/       \  \:\   \  \:\/:/     \  \:\        \  \:\
+     /__/:/        \__\/         \__\/    \  \::/       \  \:\        \  \:\
+     \__\/                                 \__\/         \__\/         \__\/
+I 2022/10/27 09:03:19 runtime.go:47: kernel is booting:
+    * ver [2.4.6]
+    * arch [amd64]
+    * resident [false]
+    * pid [2928]
+    * runtime mode [prod]
+    * working directory [C:\Program Files\WindowsApps\89C2A984.SiYuan_2.4.6.0_x64__1qfd3tsw4ngc2\app\resources]
+    * read only [false]
+    * container [std]
+    * database [ver=20220501]
+    * workspace directory [D:\文档\SiYuan, data 227 kB]
+I 2022/10/27 09:03:19 conf.go:227: using Microsoft Store edition
+I 2022/10/27 09:03:19 serve.go:106: kernel [pid=2928] is booting [http://127.0.0.1:11276]
+I 2022/10/27 09:03:19 serve.go:114: kernel reverse proxy server [6806] is booting
+I 2022/10/27 09:03:19 conf.go:587: database size [807 kB], tree/block count [54/338]
+I 2022/10/27 09:03:19 working.go:153: kernel booted
+I 2022/10/27 09:03:19 working.go:430: built-in pandoc [ver=2.19.2, bin=D:\文档\SiYuan\temp\pandoc\bin\pandoc.exe]
+I 2022/10/27 11:16:08 conf.go:371: exiting kernel [force=false, execInstallPkg=0]
+I 2022/10/27 11:16:08 database.go:1122: closed database
+I 2022/10/27 11:16:08 conf.go:697: cleared workspace temp
+I 2022/10/27 18:44:06 working.go:115: 
+      ___                                   ___           ___           ___
+     /  /\        ___           ___        /__/\         /  /\         /__/\
+    /  /:/_      /  /\         /__/|       \  \:\       /  /::\        \  \:\
+   /  /:/ /\    /  /:/        |  |:|        \  \:\     /  /:/\:\        \  \:\
+  /  /:/ /::\  /__/::\        |  |:|    ___  \  \:\   /  /:/~/::\   _____\__\:\
+ /__/:/ /:/\:\ \__\/\:\__   __|__|:|   /__/\  \__\:\ /__/:/ /:/\:\ /__/::::::::\
+ \  \:\/:/~/:/    \  \:\/\ /__/::::\   \  \:\ /  /:/ \  \:\/:/__\/ \  \:\~~\~~\/
+  \  \::/ /:/      \__\::/    ~\~~\:\   \  \:\  /:/   \  \::/       \  \:\  ~~~
+   \__\/ /:/       /__/:/       \  \:\   \  \:\/:/     \  \:\        \  \:\
+     /__/:/        \__\/         \__\/    \  \::/       \  \:\        \  \:\
+     \__\/                                 \__\/         \__\/         \__\/
+I 2022/10/27 18:44:06 runtime.go:47: kernel is booting:
+    * ver [2.4.6]
+    * arch [amd64]
+    * resident [false]
+    * pid [16488]
+    * runtime mode [prod]
+    * working directory [C:\Program Files\WindowsApps\89C2A984.SiYuan_2.4.6.0_x64__1qfd3tsw4ngc2\app\resources]
+    * read only [false]
+    * container [std]
+    * database [ver=20220501]
+    * workspace directory [D:\文档\SiYuan, data 320 kB]
+I 2022/10/27 18:44:06 conf.go:227: using Microsoft Store edition
+I 2022/10/27 18:44:06 serve.go:106: kernel [pid=16488] is booting [http://127.0.0.1:1256]
+I 2022/10/27 18:44:06 serve.go:114: kernel reverse proxy server [6806] is booting
+I 2022/10/27 18:44:06 working.go:430: built-in pandoc [ver=2.19.2, bin=D:\文档\SiYuan\temp\pandoc\bin\pandoc.exe]
+I 2022/10/27 18:44:06 conf.go:587: database size [1.4 MB], tree/block count [60/480]
+I 2022/10/27 18:44:06 working.go:153: kernel booted
+I 2022/10/27 20:39:56 conf.go:371: exiting kernel [force=false, execInstallPkg=0]
+I 2022/10/27 20:39:56 database.go:1122: closed database
+I 2022/10/27 20:39:56 conf.go:697: cleared workspace temp
+I 2022/10/27 20:42:14 working.go:115: 
+      ___                                   ___           ___           ___
+     /  /\        ___           ___        /__/\         /  /\         /__/\
+    /  /:/_      /  /\         /__/|       \  \:\       /  /::\        \  \:\
+   /  /:/ /\    /  /:/        |  |:|        \  \:\     /  /:/\:\        \  \:\
+  /  /:/ /::\  /__/::\        |  |:|    ___  \  \:\   /  /:/~/::\   _____\__\:\
+ /__/:/ /:/\:\ \__\/\:\__   __|__|:|   /__/\  \__\:\ /__/:/ /:/\:\ /__/::::::::\
+ \  \:\/:/~/:/    \  \:\/\ /__/::::\   \  \:\ /  /:/ \  \:\/:/__\/ \  \:\~~\~~\/
+  \  \::/ /:/      \__\::/    ~\~~\:\   \  \:\  /:/   \  \::/       \  \:\  ~~~
+   \__\/ /:/       /__/:/       \  \:\   \  \:\/:/     \  \:\        \  \:\
+     /__/:/        \__\/         \__\/    \  \::/       \  \:\        \  \:\
+     \__\/                                 \__\/         \__\/         \__\/
+I 2022/10/27 20:42:14 runtime.go:47: kernel is booting:
+    * ver [2.4.6]
+    * arch [amd64]
+    * resident [false]
+    * pid [12556]
+    * runtime mode [prod]
+    * working directory [C:\Program Files\WindowsApps\89C2A984.SiYuan_2.4.6.0_x64__1qfd3tsw4ngc2\app\resources]
+    * read only [false]
+    * container [std]
+    * database [ver=20220501]
+    * workspace directory [D:\文档\SiYuan, data 390 kB]
+I 2022/10/27 20:42:14 conf.go:227: using Microsoft Store edition
+I 2022/10/27 20:42:15 serve.go:106: kernel [pid=12556] is booting [http://127.0.0.1:3993]
+I 2022/10/27 20:42:15 serve.go:114: kernel reverse proxy server [6806] is booting
+I 2022/10/27 20:42:15 conf.go:587: database size [1.8 MB], tree/block count [64/533]
+I 2022/10/27 20:42:15 working.go:153: kernel booted
+I 2022/10/27 20:42:15 working.go:430: built-in pandoc [ver=2.19.2, bin=D:\文档\SiYuan\temp\pandoc\bin\pandoc.exe]
+I 2022/10/27 20:42:24 conf.go:371: exiting kernel [force=false, execInstallPkg=0]
+I 2022/10/27 20:42:24 database.go:1122: closed database
+I 2022/10/27 20:42:24 conf.go:697: cleared workspace temp
+I 2022/10/29 21:35:07 working.go:115: 
+      ___                                   ___           ___           ___
+     /  /\        ___           ___        /__/\         /  /\         /__/\
+    /  /:/_      /  /\         /__/|       \  \:\       /  /::\        \  \:\
+   /  /:/ /\    /  /:/        |  |:|        \  \:\     /  /:/\:\        \  \:\
+  /  /:/ /::\  /__/::\        |  |:|    ___  \  \:\   /  /:/~/::\   _____\__\:\
+ /__/:/ /:/\:\ \__\/\:\__   __|__|:|   /__/\  \__\:\ /__/:/ /:/\:\ /__/::::::::\
+ \  \:\/:/~/:/    \  \:\/\ /__/::::\   \  \:\ /  /:/ \  \:\/:/__\/ \  \:\~~\~~\/
+  \  \::/ /:/      \__\::/    ~\~~\:\   \  \:\  /:/   \  \::/       \  \:\  ~~~
+   \__\/ /:/       /__/:/       \  \:\   \  \:\/:/     \  \:\        \  \:\
+     /__/:/        \__\/         \__\/    \  \::/       \  \:\        \  \:\
+     \__\/                                 \__\/         \__\/         \__\/
+I 2022/10/29 21:35:07 runtime.go:47: kernel is booting:
+    * ver [2.4.6]
+    * arch [amd64]
+    * resident [false]
+    * pid [272]
+    * runtime mode [prod]
+    * working directory [C:\Program Files\WindowsApps\89C2A984.SiYuan_2.4.6.0_x64__1qfd3tsw4ngc2\app\resources]
+    * read only [false]
+    * container [std]
+    * database [ver=20220501]
+    * workspace directory [D:\文档\SiYuan, data 390 kB]
+I 2022/10/29 21:35:07 conf.go:227: using Microsoft Store edition
+I 2022/10/29 21:35:07 serve.go:106: kernel [pid=272] is booting [http://127.0.0.1:1513]
+I 2022/10/29 21:35:07 serve.go:114: kernel reverse proxy server [6806] is booting
+I 2022/10/29 21:35:08 working.go:430: built-in pandoc [ver=2.19.2, bin=D:\文档\SiYuan\temp\pandoc\bin\pandoc.exe]
+I 2022/10/29 21:35:08 conf.go:587: database size [1.8 MB], tree/block count [64/533]
+I 2022/10/29 21:35:08 working.go:153: kernel booted
+I 2022/10/29 21:35:26 conf.go:371: exiting kernel [force=false, execInstallPkg=0]
+I 2022/10/29 21:35:26 database.go:1122: closed database
+I 2022/10/29 21:35:26 conf.go:697: cleared workspace temp
+I 2022/11/03 14:52:26 working.go:115: 
+      ___                                   ___           ___           ___
+     /  /\        ___           ___        /__/\         /  /\         /__/\
+    /  /:/_      /  /\         /__/|       \  \:\       /  /::\        \  \:\
+   /  /:/ /\    /  /:/        |  |:|        \  \:\     /  /:/\:\        \  \:\
+  /  /:/ /::\  /__/::\        |  |:|    ___  \  \:\   /  /:/~/::\   _____\__\:\
+ /__/:/ /:/\:\ \__\/\:\__   __|__|:|   /__/\  \__\:\ /__/:/ /:/\:\ /__/::::::::\
+ \  \:\/:/~/:/    \  \:\/\ /__/::::\   \  \:\ /  /:/ \  \:\/:/__\/ \  \:\~~\~~\/
+  \  \::/ /:/      \__\::/    ~\~~\:\   \  \:\  /:/   \  \::/       \  \:\  ~~~
+   \__\/ /:/       /__/:/       \  \:\   \  \:\/:/     \  \:\        \  \:\
+     /__/:/        \__\/         \__\/    \  \::/       \  \:\        \  \:\
+     \__\/                                 \__\/         \__\/         \__\/
+I 2022/11/03 14:52:27 runtime.go:47: kernel is booting:
+    * ver [2.4.6]
+    * arch [amd64]
+    * resident [false]
+    * pid [19884]
+    * runtime mode [prod]
+    * working directory [C:\Program Files\WindowsApps\89C2A984.SiYuan_2.4.6.0_x64__1qfd3tsw4ngc2\app\resources]
+    * read only [false]
+    * container [std]
+    * database [ver=20220501]
+    * workspace directory [D:\文档\SiYuan, data 390 kB]
+I 2022/11/03 14:52:27 conf.go:227: using Microsoft Store edition
+I 2022/11/03 14:52:27 serve.go:106: kernel [pid=19884] is booting [http://127.0.0.1:6646]
+I 2022/11/03 14:52:27 serve.go:114: kernel reverse proxy server [6806] is booting
+I 2022/11/03 14:52:28 working.go:430: built-in pandoc [ver=2.19.2, bin=D:\文档\SiYuan\temp\pandoc\bin\pandoc.exe]
+I 2022/11/03 14:52:28 conf.go:587: database size [1.8 MB], tree/block count [64/533]
+I 2022/11/03 14:52:28 working.go:153: kernel booted
+I 2022/11/03 16:28:56 conf.go:371: exiting kernel [force=false, execInstallPkg=0]
+I 2022/11/03 16:28:56 database.go:1122: closed database
+I 2022/11/03 16:28:56 conf.go:697: cleared workspace temp
+I 2022/11/03 18:45:23 working.go:115: 
+      ___                                   ___           ___           ___
+     /  /\        ___           ___        /__/\         /  /\         /__/\
+    /  /:/_      /  /\         /__/|       \  \:\       /  /::\        \  \:\
+   /  /:/ /\    /  /:/        |  |:|        \  \:\     /  /:/\:\        \  \:\
+  /  /:/ /::\  /__/::\        |  |:|    ___  \  \:\   /  /:/~/::\   _____\__\:\
+ /__/:/ /:/\:\ \__\/\:\__   __|__|:|   /__/\  \__\:\ /__/:/ /:/\:\ /__/::::::::\
+ \  \:\/:/~/:/    \  \:\/\ /__/::::\   \  \:\ /  /:/ \  \:\/:/__\/ \  \:\~~\~~\/
+  \  \::/ /:/      \__\::/    ~\~~\:\   \  \:\  /:/   \  \::/       \  \:\  ~~~
+   \__\/ /:/       /__/:/       \  \:\   \  \:\/:/     \  \:\        \  \:\
+     /__/:/        \__\/         \__\/    \  \::/       \  \:\        \  \:\
+     \__\/                                 \__\/         \__\/         \__\/
+I 2022/11/03 18:45:23 runtime.go:47: kernel is booting:
+    * ver [2.4.6]
+    * arch [amd64]
+    * resident [false]
+    * pid [14660]
+    * runtime mode [prod]
+    * working directory [C:\Program Files\WindowsApps\89C2A984.SiYuan_2.4.6.0_x64__1qfd3tsw4ngc2\app\resources]
+    * read only [false]
+    * container [std]
+    * database [ver=20220501]
+    * workspace directory [D:\文档\SiYuan, data 390 kB]
+I 2022/11/03 18:45:23 conf.go:227: using Microsoft Store edition
+I 2022/11/03 18:45:23 serve.go:106: kernel [pid=14660] is booting [http://127.0.0.1:10750]
+I 2022/11/03 18:45:23 serve.go:114: kernel reverse proxy server [6806] is booting
+I 2022/11/03 18:45:24 working.go:430: built-in pandoc [ver=2.19.2, bin=D:\文档\SiYuan\temp\pandoc\bin\pandoc.exe]
+I 2022/11/03 18:45:24 conf.go:587: database size [1.8 MB], tree/block count [64/533]
+I 2022/11/03 18:45:24 working.go:153: kernel booted
+I 2022/11/03 18:58:42 process.go:36: no active session, exit kernel process now
+I 2022/11/03 18:58:42 conf.go:371: exiting kernel [force=false, execInstallPkg=1]
+I 2022/11/03 18:58:42 database.go:1122: closed database
+I 2022/11/03 18:58:42 conf.go:697: cleared workspace temp
+E 2022/11/03 18:58:42 block_ref_query.go:85: sql query failed: sql: database is closed
+E 2022/11/03 18:58:42 block_ref_query.go:286: sql query failed: sql: database is closed
+I 2022/11/03 18:58:43 conf.go:414: exited kernel

@@ -1,0 +1,818 @@
+{
+	"ID": "20221027093554-wpuviq2",
+	"Spec": "1",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20221027093554-wpuviq2",
+		"scroll": "{\u0026quot;startId\u0026quot;:\u0026quot;20221027093609-7pxdwnz\u0026quot;,\u0026quot;endId\u0026quot;:\u0026quot;20221027093609-52zdmn9\u0026quot;,\u0026quot;scrollTop\u0026quot;:1910.4000244140625,\u0026quot;focusId\u0026quot;:\u0026quot;20221027093609-2isy4ox\u0026quot;,\u0026quot;focusStart\u0026quot;:2,\u0026quot;focusEnd\u0026quot;:2}",
+		"title": "OF Test",
+		"updated": "20221027195649"
+	},
+	"Children": [
+		{
+			"ID": "20221027195649-9fyh86b",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027195649-9fyh86b",
+				"updated": "20221027195649"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "一、实验原理及应用"
+				}
+			]
+		},
+		{
+			"ID": "20221027195715-7msxke8",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027195715-7msxke8"
+			}
+		},
+		{
+			"ID": "20221027195649-xef70pg",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027195649-xef70pg",
+				"updated": "20221027195649"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "旷场实验（open field test，OFT）也叫敞箱实验，是一个常用的动物行为学实验。OFT可以检测小鼠自发活动行为（loco-motor activity）和探索行为（exploratory behavior），是评价实验动物在新异环境中自主行为、探究行为与紧张度的一种方法。例如动物对新开阔环境的恐惧而主要在周边区域活动，在中央区域活动较少，但动物的探究特性又促使其产生在中央区域活动的动机。"
+				}
+			]
+		},
+		{
+			"ID": "20221027195649-hlt460r",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027195649-hlt460r",
+				"updated": "20221027195649"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "旷场（open field test）分析系统是观察研究实验动物神经精神变化、进入开阔环境后的各种行为，例如动物对新开阔环境的恐惧而主要在周边区域活动，在中央区域活动较少，但动物的探究特性又促使其产生在中央区域活动的动机，也可观察由此而产生的焦虑心理。中枢兴奋药物可以明显增加自主的活动而减少探究行为，一定剂量的抗精神病药物可以减少探究行为而不影响自主活动。"
+				}
+			]
+		},
+		{
+			"ID": "20221027195649-xd7ynkn",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027195649-xd7ynkn",
+				"updated": "20221027195649"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "目前，OFT实验的应用非常广泛，贯穿于小动物行为学研究中，并推广到神经学与精神药理学研究中，以抗精神病药物为例，OFT一般用来检测药物的副作用（如对行动的影响、睡眠等）。目前，在行为学研究中，OFT往往用来做对照，以反映实验动物的自发活动行为。因其实验操作简单，所得数据量丰富，一次实验就可以对动物的自发活动、探索行为及焦虑、抑郁状态进行定量评价，在药物的研发与开发中得到广泛的应用。"
+				}
+			]
+		},
+		{
+			"ID": "20221027195649-qb8cnj2",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027195649-qb8cnj2",
+				"updated": "20221027195649"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "​"
+				}
+			]
+		},
+		{
+			"ID": "20221027195649-7eaw8lc",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027195649-7eaw8lc",
+				"updated": "20221027195649"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "二、实验仪器"
+				}
+			]
+		},
+		{
+			"ID": "20221027195649-xihaaxf",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027195649-xihaaxf",
+				"updated": "20221027195649"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "​"
+				}
+			]
+		},
+		{
+			"ID": "20221027195649-qhp46iy",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027195649-qhp46iy",
+				"updated": "20221027195649"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "大小鼠旷场旷场实验箱（小鼠嵌套在小鼠箱体内，节约占地），SuperMaze动物行为分析软件/VisuTrack软件，摄像机，实验专用电脑。"
+				}
+			]
+		},
+		{
+			"ID": "20221027195649-ljlplmp",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027195649-ljlplmp",
+				"updated": "20221027195649"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "实验箱一般是一个方形的箱子（也有实验者设计为圆形“斗兽场”样或者方形密闭的箱体），材质为医用ABS材料，其中："
+				}
+			]
+		},
+		{
+			"ID": "20221027195649-2p1g9to",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027195649-2p1g9to",
+				"updated": "20221027195649"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "小鼠实验箱规格（长*宽*高）：100cm*100cm*40cm；"
+				}
+			]
+		},
+		{
+			"ID": "20221027195649-3at1nyz",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027195649-3at1nyz",
+				"updated": "20221027195649"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "小鼠实验箱规格（长*宽*高）：50cm*50cm*40cm；"
+				}
+			]
+		},
+		{
+			"ID": "20221027195649-pmzep8n",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027195649-pmzep8n",
+				"updated": "20221027195649"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "其实可以自制这样的仪器，很简单，但需要注意实验箱体高度不能太高，容易造成角落光线不均匀。另外，实验箱底部的颜色尽量保持与实验动物的差异性，方便软件更好的识别动物。如果实验室有动物动物行为分析软件，不需要在实验箱底部划分小方格了，通常软件里可以自动划分。"
+				}
+			]
+		},
+		{
+			"ID": "20221027195722-a7qwvn3",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027195722-a7qwvn3"
+			}
+		},
+		{
+			"ID": "20221027195649-0xg7q1v",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027195649-0xg7q1v",
+				"updated": "20221027195649"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "三、实验方法及步骤"
+				}
+			]
+		},
+		{
+			"ID": "20221027195649-5rfhpwj",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027195649-5rfhpwj",
+				"updated": "20221027195649"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "​"
+				}
+			]
+		},
+		{
+			"ID": "20221027195649-kue1c6p",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027195649-kue1c6p",
+				"updated": "20221027195649"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "1、实验开始之前，先确认实验箱是清洁，无味道的，尤其要注意清理实验箱底部上一次实验测试动物遗留下来的粪便、尿液等。"
+				}
+			]
+		},
+		{
+			"ID": "20221027195649-475d7bn",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027195649-475d7bn",
+				"updated": "20221027195649"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "2、实验人员在软件中设置好相应的参数，记录好动物的编号、日期、状态灯信息；"
+				}
+			]
+		},
+		{
+			"ID": "20221027195649-n8ggle9",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027195649-n8ggle9",
+				"updated": "20221027195649"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "3、将实验动物从饲养笼中轻轻取出，注意背向实验者；"
+				}
+			]
+		},
+		{
+			"ID": "20221027195649-z9zwbjn",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027195649-z9zwbjn",
+				"updated": "20221027195649"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "4、将实验动物迅速放置于实验箱的中央区域，并立即离开；"
+				}
+			]
+		},
+		{
+			"ID": "20221027195649-rwt9645",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027195649-rwt9645",
+				"updated": "20221027195649"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "5、打开动物行为学分析软件，自动记录动物在箱体内的活动，实验时间通常为15分钟；"
+				}
+			]
+		},
+		{
+			"ID": "20221027195649-dh2cbik",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027195649-dh2cbik",
+				"updated": "20221027195649"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "6、实验结束后，将实验动物放入事先准备好的其他饲养笼内。"
+				}
+			]
+		},
+		{
+			"ID": "20221027195649-bxjza5d",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027195649-bxjza5d",
+				"updated": "20221027195649"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "7、用酒精喷洒仪器装置除味，并用纸巾檫干。"
+				}
+			]
+		},
+		{
+			"ID": "20221027195649-vo1i4p9",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027195649-vo1i4p9",
+				"updated": "20221027195649"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "​"
+				}
+			]
+		},
+		{
+			"ID": "20221027195649-csb1t8p",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027195649-csb1t8p",
+				"updated": "20221027195649"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "四、实验指标"
+				}
+			]
+		},
+		{
+			"ID": "20221027195649-2hhadrh",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027195649-2hhadrh",
+				"updated": "20221027195649"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "​"
+				}
+			]
+		},
+		{
+			"ID": "20221027195649-2tv6vb9",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027195649-2tv6vb9",
+				"updated": "20221027195649"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "区域的划分：区域通常分为四角、四周及中央区域，软件自动统计这些区域内实验动物的活动路程、滞留时间及进入次数、平均速度；这里需要注意，关于区域的划分有很多不同的方式，也有很多实验者将箱体底部划分成9宫格、16宫格或者25宫格。"
+				}
+			]
+		},
+		{
+			"ID": "20221027195649-uxn5rsw",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027195649-uxn5rsw",
+				"updated": "20221027195649"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "1、水平运动总距离――――反应小鼠的运动情况。例如抑郁小鼠水平运动距离将大大减少，多躲避于旷场一角不动。"
+				}
+			]
+		},
+		{
+			"ID": "20221027195649-x967b6m",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027195649-x967b6m",
+				"updated": "20221027195649"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "2、中央区运进入总次数――――反应小鼠的焦虑情况。抗焦虑药物可以在不改变一般运动情况的前提下增加小鼠的中央区进入次数。抑郁小鼠中央区进入次数也会大幅度下降。"
+				}
+			]
+		},
+		{
+			"ID": "20221027195649-bfwb5yi",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027195649-bfwb5yi",
+				"updated": "20221027195649"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "3、中央区运滞留时间――――反应小鼠的焦虑情况。抗焦虑药物可以在不改变一般运动情况的前提下增加小鼠的中央区滞留时间。抑郁小鼠中央区滞留时间也会大幅度下降。"
+				}
+			]
+		},
+		{
+			"ID": "20221027195649-y96m6v6",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027195649-y96m6v6",
+				"updated": "20221027195649"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "4、直立次数――――反应小鼠垂直水平活动情况，主要反应小鼠的探究行为。抑郁小鼠对外界环境的好奇性或探究兴趣下降，所以表现出直立次数显著下降。"
+				}
+			]
+		},
+		{
+			"ID": "20221027195649-7f23cmo",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027195649-7f23cmo",
+				"updated": "20221027195649"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "5、粪便数量――――反应小鼠的焦虑情况。但是由于粪便数受影响因素多并不能充分反映出小鼠的焦虑情况。"
+				}
+			]
+		},
+		{
+			"ID": "20221027195649-wguh0pe",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027195649-wguh0pe",
+				"updated": "20221027195649"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "​"
+				}
+			]
+		},
+		{
+			"ID": "20221027195649-lxu9iy7",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027195649-lxu9iy7",
+				"updated": "20221027195649"
+			},
+			"Children": [
+				{
+					"Type": "NodeImage",
+					"Data": "span",
+					"Children": [
+						{
+							"Type": "NodeBang"
+						},
+						{
+							"Type": "NodeOpenBracket"
+						},
+						{
+							"Type": "NodeLinkText"
+						},
+						{
+							"Type": "NodeCloseBracket"
+						},
+						{
+							"Type": "NodeOpenParen"
+						},
+						{
+							"Type": "NodeLinkDest",
+							"Data": "assets/clip_image002-20221027195649-t8u6csm.jpg"
+						},
+						{
+							"Type": "NodeCloseParen"
+						}
+					]
+				},
+				{
+					"Type": "NodeText",
+					"Data": "​"
+				}
+			]
+		},
+		{
+			"ID": "20221027195649-h0e8wpr",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027195649-h0e8wpr",
+				"updated": "20221027195649"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "​"
+				}
+			]
+		},
+		{
+			"ID": "20221027195649-x0zrqci",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027195649-x0zrqci",
+				"updated": "20221027195649"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "运动轨迹图"
+				}
+			]
+		},
+		{
+			"ID": "20221027195649-m26e143",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027195649-m26e143",
+				"updated": "20221027195649"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "​"
+				}
+			]
+		},
+		{
+			"ID": "20221027195649-oo8tt63",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027195649-oo8tt63",
+				"updated": "20221027195649"
+			},
+			"Children": [
+				{
+					"Type": "NodeImage",
+					"Data": "span",
+					"Children": [
+						{
+							"Type": "NodeBang"
+						},
+						{
+							"Type": "NodeOpenBracket"
+						},
+						{
+							"Type": "NodeLinkText"
+						},
+						{
+							"Type": "NodeCloseBracket"
+						},
+						{
+							"Type": "NodeOpenParen"
+						},
+						{
+							"Type": "NodeLinkDest",
+							"Data": "assets/clip_image004-20221027195649-8gtk6ju.jpg"
+						},
+						{
+							"Type": "NodeCloseParen"
+						}
+					]
+				},
+				{
+					"Type": "NodeText",
+					"Data": "​"
+				}
+			]
+		},
+		{
+			"ID": "20221027195649-l901ydd",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027195649-l901ydd",
+				"updated": "20221027195649"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "​"
+				}
+			]
+		},
+		{
+			"ID": "20221027195649-zw8nglf",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027195649-zw8nglf",
+				"updated": "20221027195649"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "heatmap热图"
+				}
+			]
+		},
+		{
+			"ID": "20221027195649-dgzbnfc",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027195649-dgzbnfc",
+				"updated": "20221027195649"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "另外，自发活动行为的复杂表现：这一类行为可以更加客观的表现动物的自发性行为，比如修饰、转圈、蜷缩、急冲、甩头、躯体伸长等，如果软件支持自动测试这些指标，可以一并统计。"
+				}
+			]
+		},
+		{
+			"ID": "20221027195649-e7n2kol",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027195649-e7n2kol",
+				"updated": "20221027195649"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "​"
+				}
+			]
+		},
+		{
+			"ID": "20221027195649-jjqmfrs",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027195649-jjqmfrs",
+				"updated": "20221027195649"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "五、注意事项"
+				}
+			]
+		},
+		{
+			"ID": "20221027195649-3mcs3n2",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027195649-3mcs3n2",
+				"updated": "20221027195649"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "​"
+				}
+			]
+		},
+		{
+			"ID": "20221027195649-8rs2w98",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027195649-8rs2w98",
+				"updated": "20221027195649"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "1、实验前需要对实验动物每天抚摸1-2min以减少非特异性应激刺激对实验动物检测中的影响。"
+				}
+			]
+		},
+		{
+			"ID": "20221027195649-a36r4tj",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027195649-a36r4tj",
+				"updated": "20221027195649"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "2、实验过程中需要弱光照明，观察者尽量与测试动物分隔。"
+				}
+			]
+		},
+		{
+			"ID": "20221027195649-j4w5axs",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027195649-j4w5axs",
+				"updated": "20221027195649"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "3、实验过程中需要环境安静。"
+				}
+			]
+		},
+		{
+			"ID": "20221027195649-99lrn63",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027195649-99lrn63",
+				"updated": "20221027195649"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "4、进行旷场检测时，需要对实验动物进行筛选，有些实验动物在正常情况下水平方向或垂直方向的活动情况显著低于同批动物平均水平，则需要将这些动物预先剔除。"
+				}
+			]
+		},
+		{
+			"ID": "20221027195649-mrh4147",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027195649-mrh4147",
+				"updated": "20221027195649"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "5、实验前需要提前至少3小时将动物带入实验室，降低动物对新环境的不安情绪。"
+				}
+			]
+		},
+		{
+			"ID": "20221027195649-9d2d2v6",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027195649-9d2d2v6",
+				"updated": "20221027195649"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "6、实验动物的性别、周龄尽量保持一致，因为激素水平可能会影响动物行为。"
+				}
+			]
+		},
+		{
+			"ID": "20221027195649-bybb28s",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027195649-bybb28s",
+				"updated": "20221027195649"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "7、注意实验动物的昼夜节律，尽量选择同一时间段开展实验。"
+				}
+			]
+		},
+		{
+			"ID": "20221027195649-0tvewr0",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027195649-0tvewr0",
+				"updated": "20221027195649"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "8、OFT实验对动物各方面影响较小，而其他行为学实验（如强迫游泳、水迷宫、悬尾实验）影响较大，因此同一批动物进行不同行为学测试时，应先进行OFT实验。"
+				}
+			]
+		},
+		{
+			"ID": "20221027195649-3dhjmvb",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027195649-3dhjmvb",
+				"updated": "20221027195649"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "​"
+				}
+			]
+		},
+		{
+			"ID": "20221027195649-a4p7go2",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027195649-a4p7go2",
+				"updated": "20221027195649"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "​"
+				}
+			]
+		},
+		{
+			"ID": "20221027195555-nbdg6ey",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027195555-nbdg6ey"
+			}
+		}
+	]
+}

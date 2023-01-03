@@ -1,0 +1,62 @@
+{
+	"ID": "20221027184759-avaxeug",
+	"Spec": "1",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20221027184759-avaxeug",
+		"title": "IAR标记",
+		"updated": "20221027185434"
+	},
+	"Children": [
+		{
+			"ID": "20221027184803-xszc469",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027184803-xszc469",
+				"updated": "20221027184820"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "2.3 | VGLUT3 的 IAR 标记 为了评估 VGLUT3 在不同的小鼠系中是否有不同的表达，我们如前 所述通过 IAR 分析了多个大脑区域。"
+				}
+			]
+		},
+		{
+			"ID": "20221027184821-j6cv719",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027184821-j6cv719",
+				"updated": "20221027184834"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "在来自不同遗传背景(n = 4) 的野生型小鼠的纹状体、海马和中缝核中进行 VGLUT3 密度测量， 并与 VGLUT3−/−小鼠(C57BL/6N 背景n = 4)进行比较。"
+				}
+			]
+		},
+		{
+			"ID": "20221027184825-i8nrl20",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027184825-i8nrl20",
+				"updated": "20221027185434"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "颈椎脱位后，解剖大脑，在−30°C 的异戊烷中快速冷冻。14 微米厚的冠状脑切片在 −20°C，解冻后用 Superfrost Plus 装片，保存在−80℃以备使用。对每只老鼠，每个品系的每个大脑区域的 4 个冠状截面分别切片。 切片在室温下用 4%多聚甲醛固定 15 分钟，并用含有 3%牛血清白蛋白、1%山羊血清和 1-mM NaI 的磷酸盐缓冲盐水(PBS)冲洗 1 小 时(命名为 Buffer A)，然后切片在 4℃ 用加入 VGLUT3 抗血清的缓冲液 A (1/20000;Synaptic System)，洗净后在含有抗体的缓冲液 A中室温孵育 2 小时(RT) [125I]-IgG (PerkinElmer, Villebon sur Yvette,  France)。然后将冲洗过的切片暴露于 x 射线胶片(Biomax MR,  Kodak)下 3 天。将标准放射性微尺度暴露在每张胶片上，以确保标记密度在线性范围内。使用 MCID 分析软件 7.0 版本(Imaging  Research Inc.， St catherine, ON, Canada)进行密度测量。在每个切片上的白质区域确定背景，并从密度测量中减去背景。通过将切片与 Paxinos 小鼠大脑图谱(2001)进行比较以定义区域。"
+				}
+			]
+		},
+		{
+			"ID": "20221027184759-3sp46l0",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027184759-3sp46l0",
+				"updated": "20221027184759"
+			}
+		}
+	]
+}

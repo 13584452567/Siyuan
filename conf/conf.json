@@ -2,6 +2,7 @@
   "logLevel": "debug",
   "appearance": {
     "mode": 0,
+    "modeOS": false,
     "darkThemes": [
       "midnight"
     ],
@@ -16,7 +17,7 @@
       "material"
     ],
     "icon": "material",
-    "iconVer": "1.0.6",
+    "iconVer": "1.5.0",
     "nativeEmoji": true,
     "codeBlockThemeLight": "github",
     "codeBlockThemeDark": "base16/dracula",
@@ -78,9 +79,14 @@
     "emoji": [],
     "virtualBlockRef": false,
     "virtualBlockRefExclude": "",
+    "virtualBlockRefInclude": "",
     "blockRefDynamicAnchorTextMaxLen": 96,
     "plantUMLServePath": "https://www.plantuml.com/plantuml/svg/~1",
-    "fullWidth": false
+    "fullWidth": false,
+    "katexMacros": "",
+    "readOnly": false,
+    "embedBlockBreadcrumb": false,
+    "listLogicalOutdent": false
   },
   "export": {
     "paragraphBeginningSpace": false,
@@ -92,7 +98,7 @@
     "tagOpenMarker": "#",
     "tagCloseMarker": "#",
     "fileAnnotationRefMode": 0,
-    "pandocBin": ""
+    "pandocBin": "D:\\文档\\SiYuan\\temp\\pandoc\\bin\\pandoc.exe"
   },
   "graph": {
     "maxBlocks": 10240,
@@ -194,8 +200,170 @@
                 {
                   "children": [
                     {
-                      "children": {},
-                      "instance": "Tab"
+                      "children": {
+                        "action": "",
+                        "blockId": "20221027094557-7h6jyd5",
+                        "instance": "Editor",
+                        "mode": "wysiwyg",
+                        "rootId": "20221027094557-7h6jyd5",
+                        "scrollAttr": {
+                          "endId": "20221027094600-c1labb6",
+                          "focusEnd": 12,
+                          "focusId": "20221027094600-71lapfn",
+                          "focusStart": 12,
+                          "scrollTop": 400,
+                          "startId": "20221027094600-yp3qywj"
+                        }
+                      },
+                      "docIcon": "",
+                      "instance": "Tab",
+                      "pin": false,
+                      "title": "TST"
+                    },
+                    {
+                      "children": {
+                        "action": "",
+                        "blockId": "20221027105221-ngtrsh4",
+                        "instance": "Editor",
+                        "mode": "wysiwyg",
+                        "rootId": "20221027105221-ngtrsh4",
+                        "scrollAttr": {
+                          "endId": "20221027184455-7fj9kwl",
+                          "focusEnd": 787,
+                          "focusId": "20221027105221-pgmsnsz",
+                          "focusStart": 0,
+                          "scrollTop": 0,
+                          "startId": "20221027105229-4ryx52h"
+                        }
+                      },
+                      "docIcon": "",
+                      "instance": "Tab",
+                      "pin": false,
+                      "title": "基因表达检测"
+                    },
+                    {
+                      "children": {
+                        "action": "",
+                        "blockId": "20221027200859-rylk3ao",
+                        "instance": "Editor",
+                        "mode": "wysiwyg",
+                        "rootId": "20221027200859-rylk3ao",
+                        "scrollAttr": {
+                          "endId": "20221027200859-4u19fji",
+                          "focusEnd": 0,
+                          "focusId": "20221027200906-xubvlqt",
+                          "focusStart": 0,
+                          "scrollTop": 0,
+                          "startId": "20221027200906-xubvlqt"
+                        }
+                      },
+                      "docIcon": "",
+                      "instance": "Tab",
+                      "pin": false,
+                      "title": "DirectPCR"
+                    },
+                    {
+                      "children": {
+                        "action": "",
+                        "blockId": "20221027094414-h9c4pxy",
+                        "instance": "Editor",
+                        "mode": "wysiwyg",
+                        "rootId": "20221027094414-h9c4pxy",
+                        "scrollAttr": {
+                          "endId": "20221027094419-nc0xyu5",
+                          "scrollTop": 4785,
+                          "startId": "20221027094419-fzakkjg"
+                        }
+                      },
+                      "docIcon": "",
+                      "instance": "Tab",
+                      "pin": false,
+                      "title": "TST \u0026 LDB"
+                    },
+                    {
+                      "active": true,
+                      "children": {
+                        "action": "",
+                        "blockId": "20221027184614-ovksknl",
+                        "instance": "Editor",
+                        "mode": "wysiwyg",
+                        "rootId": "20221027184614-ovksknl",
+                        "scrollAttr": {
+                          "endId": "20221027184757-ghi7grs",
+                          "focusEnd": 0,
+                          "focusId": "20221027184757-ghi7grs",
+                          "focusStart": 0,
+                          "scrollTop": 0,
+                          "startId": "20221027184614-ayfj74u"
+                        }
+                      },
+                      "docIcon": "",
+                      "instance": "Tab",
+                      "pin": false,
+                      "title": "数据统计"
+                    },
+                    {
+                      "children": {
+                        "action": "",
+                        "blockId": "20221027093554-wpuviq2",
+                        "instance": "Editor",
+                        "mode": "wysiwyg",
+                        "rootId": "20221027093554-wpuviq2",
+                        "scrollAttr": {
+                          "endId": "20221027195555-nbdg6ey",
+                          "focusEnd": 9,
+                          "focusId": "20221027195649-0xg7q1v",
+                          "focusStart": 9,
+                          "scrollTop": 966,
+                          "startId": "20221027195649-9fyh86b"
+                        }
+                      },
+                      "docIcon": "",
+                      "instance": "Tab",
+                      "pin": false,
+                      "title": "OF Test"
+                    },
+                    {
+                      "children": {
+                        "action": "",
+                        "blockId": "20221027093649-0cznyz7",
+                        "instance": "Editor",
+                        "mode": "wysiwyg",
+                        "rootId": "20221027093649-0cznyz7",
+                        "scrollAttr": {
+                          "endId": "20221027093649-js2ajf9",
+                          "focusEnd": 47,
+                          "focusId": "20221027093702-mtgta31",
+                          "focusStart": 47,
+                          "scrollTop": 1535,
+                          "startId": "20221027093702-neqcuqx"
+                        }
+                      },
+                      "docIcon": "",
+                      "instance": "Tab",
+                      "pin": false,
+                      "title": "EPM Test"
+                    },
+                    {
+                      "children": {
+                        "action": "",
+                        "blockId": "20221027184759-avaxeug",
+                        "instance": "Editor",
+                        "mode": "wysiwyg",
+                        "rootId": "20221027184759-avaxeug",
+                        "scrollAttr": {
+                          "endId": "20221027184759-3sp46l0",
+                          "focusEnd": 563,
+                          "focusId": "20221027184825-i8nrl20",
+                          "focusStart": 0,
+                          "scrollTop": 0,
+                          "startId": "20221027184803-xszc469"
+                        }
+                      },
+                      "docIcon": "",
+                      "instance": "Tab",
+                      "pin": false,
+                      "title": "IAR标记"
                     }
                   ],
                   "height": "",
@@ -358,31 +526,30 @@
   },
   "readonly": false,
   "localIPs": [
-    "172.19.83.237",
-    "192.168.192.1",
-    "192.168.58.1",
-    "192.168.1.244",
     "127.0.0.1"
   ],
   "accessAuthCode": "",
   "system": {
     "id": "12e2a00a-e8cc-4005-852b-b8a63affb68a",
-    "kernelVersion": "2.1.5",
+    "kernelVersion": "2.4.6",
     "os": "windows",
     "container": "std",
+    "isMicrosoftStore": true,
     "isInsider": false,
     "homeDir": "C:\\Users\\zicai",
     "workspaceDir": "D:\\文档\\SiYuan",
-    "appDir": "C:\\Program Files\\WindowsApps\\89C2A984.SiYuan_2.1.5.0_x64__1qfd3tsw4ngc2\\app\\resources",
+    "appDir": "C:\\Program Files\\WindowsApps\\89C2A984.SiYuan_2.4.6.0_x64__1qfd3tsw4ngc2\\app\\resources",
     "confDir": "D:\\文档\\SiYuan\\conf",
     "dataDir": "D:\\文档\\SiYuan\\data",
     "networkServe": false,
+    "fixedPort": false,
     "networkProxy": {
       "scheme": "",
       "host": "",
       "port": ""
     },
-    "uploadErrLog": false
+    "uploadErrLog": false,
+    "downloadInstallPkg": false
   },
   "keymap": {},
   "sync": {
@@ -390,7 +557,8 @@
     "enabled": true,
     "mode": 1,
     "synced": 0,
-    "stat": ""
+    "stat": "",
+    "generateConflictDoc": false
   },
   "search": {
     "document": true,
@@ -420,7 +588,7 @@
     "virtualRefDoc": true
   },
   "stat": {
-    "docCount": 13
+    "docCount": 64
   },
   "api": {
     "token": "a68t8dy6fjuhk5eu"

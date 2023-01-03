@@ -1,0 +1,645 @@
+{
+	"ID": "20221027094414-h9c4pxy",
+	"Spec": "1",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20221027094414-h9c4pxy",
+		"scroll": "{\u0026quot;startId\u0026quot;:\u0026quot;20221027094419-fzakkjg\u0026quot;,\u0026quot;endId\u0026quot;:\u0026quot;20221027094419-nc0xyu5\u0026quot;,\u0026quot;scrollTop\u0026quot;:300,\u0026quot;focusId\u0026quot;:\u0026quot;20221027094419-fzakkjg\u0026quot;,\u0026quot;focusStart\u0026quot;:273,\u0026quot;focusEnd\u0026quot;:273}",
+		"title": "TST \u0026amp; LDB",
+		"updated": "20221027094452"
+	},
+	"Children": [
+		{
+			"ID": "20221027094419-fzakkjg",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027094419-fzakkjg",
+				"updated": "20221027094419"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "摘要: 目的 探讨明暗箱实验( light /dark box，LDB) 和悬尾实验( tail suspension test，TST) 作为动物模型评价昆明小鼠焦虑与抑郁情绪的相关性。方法 成年♂昆明小鼠先后放入明暗穿梭箱和悬尾箱，摄像系统分别记录 5 min 和 6 min 内的行为变化，实验间隔 1 周，实验参数如下: LDB 首次由明区进入暗区潜伏期( LDB_Latence) 、明区停留时间百分率 ( LDB_Ltime% ) 、明区水平运动百分率( LDB_Lcross% ) 、明区垂直运动百分率( LDB_Lrear% ) ，TST 首次出现不动状态潜伏 期 ( TST _ Latence) 、不动状态百分率 ( TST _ Immobility% ) ; 采用因子分析、聚类分析、相关分析、一致性检验和生存分析等多种统计方法进行数据处理。"
+				}
+			]
+		},
+		{
+			"ID": "20221027094419-5q043r8",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027094419-5q043r8",
+				"updated": "20221027094419"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "结果 ："
+				}
+			]
+		},
+		{
+			"ID": "20221027094419-t5zdizn",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027094419-t5zdizn",
+				"updated": "20221027094419"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "① 因子分析和聚类分析提示，LDB 参数反映焦虑情绪，TST 参数反映抑郁情绪。"
+				}
+			]
+		},
+		{
+			"ID": "20221027094419-48i2dvh",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027094419-48i2dvh",
+				"updated": "20221027094419"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "② 相关分析提示，LDB 与 TST 参数组内具有较好相关性，而组间相关性较差; ICC 和 Kappa 统计参数提示，LDB 与 TST 评价焦虑与抑郁情绪一致性较差。"
+				}
+			]
+		},
+		{
+			"ID": "20221027094419-4cln5fo",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027094419-4cln5fo",
+				"updated": "20221027094419"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "③ 生存分析 提示，LDB 与 TST 半数生存期差异无统计学意义。结论LDB 与 TST 相关参数各自独立反映了焦虑与抑郁情绪，但两者评价结果的相关性和一致性较差; 在解决“特质焦虑与状态焦虑动物模型相关性”及“焦虑与抑郁动物模型相关性”科学问题时，可以考虑建立新型动物模型及综合评价方法或者筛选特质种属实验动物; 而在进行药物效应评价时，可以考虑将多种动物模型联合组成“行为组学”，根据不同 结构维度进行“模式识别”评价。"
+				}
+			]
+		},
+		{
+			"ID": "20221027094419-qvz294f",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027094419-qvz294f",
+				"updated": "20221027094419"
+			},
+			"Children": [
+				{
+					"Type": "NodeTextMark",
+					"TextMarkType": "a",
+					"TextMarkAHref": "https://link.zhihu.com/?target=http%3A//www.softmaze.com/s02/product/2013/03/13/17047952.html",
+					"TextMarkTextContent": "明暗箱实验"
+				},
+				{
+					"Type": "NodeText",
+					"Data": "( light /dark box，LDB) 与"
+				},
+				{
+					"Type": "NodeTextMark",
+					"TextMarkType": "a",
+					"TextMarkAHref": "https://link.zhihu.com/?target=http%3A//www.softmaze.com/s02/product/2014/06/17/20368117.html",
+					"TextMarkTextContent": "悬尾实验( tail suspension test，TST)"
+				},
+				{
+					"Type": "NodeText",
+					"Data": "是评价焦虑与抑郁情绪的经典方法，广泛应用于精神神经药理学基础研究: LDB具有较好的结构效度，而 TST 则具有较好的预测效度。焦虑和抑郁情绪通常合并并存于相关疾病，不管从行为学、 心理学、生理学以及病理学角度均具有较高的相关性;神经内分泌研究证实，焦虑与抑郁情绪与外周下丘脑 － 垂体－ 肾上腺/性腺/甲状腺轴和中枢 GABA、5-HT 系统密切相关; 既然如此，焦虑与抑郁动物模型是否也具有相关性呢? 本研究综合采用因子分析、聚类分析、相关分析、一致性检验及生存分析多种统计方法，初步探讨 LDB 与 TST 作为焦虑与抑郁动物模型的相关性。"
+				}
+			]
+		},
+		{
+			"ID": "20221027094419-12hssqj",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027094419-12hssqj",
+				"updated": "20221027094419"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "1 材料"
+				}
+			]
+		},
+		{
+			"ID": "20221027094419-0z9x33a",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027094419-0z9x33a",
+				"updated": "20221027094419"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "1． 1 实验动物 昆明小鼠，♂，由山东中医药大学实验动物中心提 供［许 可 证 号: SCXK( 鲁) 20050015］。室 温 ( 20 ± 2) ℃，光照 12 h( 6: 00 ～ 18: 00) 和黑暗 12 h( 18: 00 ～ 6: 00) 环境，自由进水饮食饲养; 预适应环境 1 周后，选取体质量( 20 ± 2) g 小鼠 20 只进入正式实验( 所有实验均于 19: 00 ～ 24: 00 进行) 。"
+				}
+			]
+		},
+		{
+			"ID": "20221027094419-rjeihs1",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027094419-rjeihs1",
+				"updated": "20221027094419"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "1． 2 实验装置"
+				}
+			]
+		},
+		{
+			"ID": "20221027094419-82u1mr5",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027094419-82u1mr5",
+				"updated": "20221027094419"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "1． 2． 1 明暗穿梭箱 ，也叫黑白箱，型号：XR-XB120"
+				}
+			]
+		},
+		{
+			"ID": "20221027094419-4h4c8bh",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027094419-4h4c8bh",
+				"updated": "20221027094419"
+			},
+			"Children": [
+				{
+					"Type": "NodeImage",
+					"Data": "span",
+					"Children": [
+						{
+							"Type": "NodeBang"
+						},
+						{
+							"Type": "NodeOpenBracket"
+						},
+						{
+							"Type": "NodeLinkText"
+						},
+						{
+							"Type": "NodeCloseBracket"
+						},
+						{
+							"Type": "NodeOpenParen"
+						},
+						{
+							"Type": "NodeLinkDest",
+							"Data": "https://pic4.zhimg.com/80/v2-30c8d16cf2f577ce138877bd7f10276f_720w.webp"
+						},
+						{
+							"Type": "NodeCloseParen"
+						}
+					]
+				},
+				{
+					"Type": "NodeText",
+					"Data": "​"
+				}
+			]
+		},
+		{
+			"ID": "20221027094419-wwfbevr",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027094419-wwfbevr",
+				"updated": "20221027094419"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "SuperMaze动物行为分析软件，型号：XR-Xmaze"
+				}
+			]
+		},
+		{
+			"ID": "20221027094419-pjqarco",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027094419-pjqarco",
+				"updated": "20221027094419"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "1． 2． 2 悬尾箱 ，配套SuperTst悬尾分析软件，型号：XR-XX203"
+				}
+			]
+		},
+		{
+			"ID": "20221027094419-yso83z3",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027094419-yso83z3",
+				"updated": "20221027094419"
+			},
+			"Children": [
+				{
+					"Type": "NodeImage",
+					"Data": "span",
+					"Children": [
+						{
+							"Type": "NodeBang"
+						},
+						{
+							"Type": "NodeOpenBracket"
+						},
+						{
+							"Type": "NodeLinkText"
+						},
+						{
+							"Type": "NodeCloseBracket"
+						},
+						{
+							"Type": "NodeOpenParen"
+						},
+						{
+							"Type": "NodeLinkDest",
+							"Data": "https://pic4.zhimg.com/80/v2-e4a399cfeec13893e091401ffea88d77_720w.webp"
+						},
+						{
+							"Type": "NodeCloseParen"
+						}
+					]
+				},
+				{
+					"Type": "NodeText",
+					"Data": "​"
+				}
+			]
+		},
+		{
+			"ID": "20221027094419-qzg05da",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027094419-qzg05da",
+				"updated": "20221027094419"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "SuperTst悬尾实验分析系统，型号：XR-XX203"
+				}
+			]
+		},
+		{
+			"ID": "20221027094419-fr5gz2x",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027094419-fr5gz2x",
+				"updated": "20221027094419"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "2 方法"
+				}
+			]
+		},
+		{
+			"ID": "20221027094419-0n1in6j",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027094419-0n1in6j",
+				"updated": "20221027094419"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "2． 1 LDB 操作者将小鼠放入明暗穿梭箱正中格，用摄像系统记录动物 5 min 的行为变化，包括两箱停留时间、水平运动、垂直运动; 其中，四只爪子均进入一格方可记录水平运动1 次，两前爪腾空或攀附墙壁方可记录垂直运动 1 次。"
+				}
+			]
+		},
+		{
+			"ID": "20221027094419-viak2oc",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027094419-viak2oc",
+				"updated": "20221027094419"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "2． 2 TST 操作者用不粘胶将小鼠尾尖部 1 /3 处悬于悬尾箱内，使其头部正对镜头离箱底约 10 cm，用摄像系统记录动物 6 min 内后 4 min 的行为变化，包括首次出现不动状态时间及不动状态持续时间; 其中，不动状态是指动物放弃主动挣扎，处于完全不动的状态。"
+				}
+			]
+		},
+		{
+			"ID": "20221027094419-34jd76p",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027094419-34jd76p",
+				"updated": "20221027094419"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "2． 3 实验操作 实验先进行 LDB，间隔 1 周再进行 TST; 实验环境由 25 W 红色白炽灯提供照明; 每只动物实验结束后清除粪便，用 70% 乙醇喷洒箱底并用洁净纱布抹干，以免前一只动物的残留气味造成对本次实验的影响。全部实验结束后由不熟悉实验设计人员进行数据提取录入; 其中，纳入LDB 实验参数有: 首次由明区进入暗区潜伏期( LDB_La- tence) 、明区停留时间百分率( 明区停留时间/300 s × 100% ，LDB_Ltime% ) 、明区水平运动百分率( 明区水平运动得分/总水平运动得分 × 100% ，LDB_Lcross% ) 、明区垂直运动百分率( 明区 垂 直 运 动 得 分/总垂直运动得分 × 100% ，LDB _ Lrear% ) ，纳入 TST 实验参数有: 首次出现不动状态潜伏期( TST_Latence) 、不动状态持续时间百分率( 不动状态持续时间/240 s × 100% ，TST_Immobility% ) 。"
+				}
+			]
+		},
+		{
+			"ID": "20221027094419-x8a1e9a",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027094419-x8a1e9a",
+				"updated": "20221027094419"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "2． 4 统计学分析 采用 SPSS 13. 0 for Windows 软件进行统计分析。因子分析由 Analyze→Data Reduction→Factor Analy- sis 过程完成，以 Principal components 提取公因子，以累计贡献率 ＞ 80% 作为因子纳入标准，采用Varimax 正交旋转。聚类分析参数由 Analyze→Classify→Hierarchical Cluster Analy- sis 过程完成，采用 R 型变量聚类，选择 Between-groupslink-age 测量方法和 Pearson Correlation 距离类型。相关分析由Analyze→Correlate→Bivariate Correlations 过程完成，所有数据先进 行 Kolmogorov-Smirnov 正 态 分 布 检 验。ICC 参 数 由Analyze→Scale→Reliability Analysis 过程完成得到，Kappa 参数由 Analyze→Descriptive statistics→Crosstabs 过程完成，分析前首先根据分位数进行低( Low，＜ 25% 分位数) 、中( Median，75% 分位数 ～ 25% 分位数) 、高( High，＞ 75% 分位数) 分类;当参数 ICC、Kappa: ＞ 0. 75 认为一致性很好( Good) ，0. 50 ～ 0. 75 则认为一致性一般( Fair) ，＜ 0. 50 则认为一致性很差( Poor) 。Latence 参数采用生存分析，由 Analyze→Survival→Kaplan-Meier plot 过程完成，半数生存期采用 Log rank test 统计分析。"
+				}
+			]
+		},
+		{
+			"ID": "20221027094419-hv4yv39",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027094419-hv4yv39",
+				"updated": "20221027094419"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "3 结果"
+				}
+			]
+		},
+		{
+			"ID": "20221027094419-eeenlbj",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027094419-eeenlbj",
+				"updated": "20221027094419"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "3． 1 因子分析 KMO 和 Bartlett 球形检验提示，LDB-TST 参数变量并不独立，相关性尚可，适合进行合并因子分析( KMO=0. 730，χ2 = 76. 265，P ＜ 0. 0001) 。因子分析提示( Tab1) :LDB 参数主要对焦虑因子( Anxiety factorⅠ，52. 29% ) 贡献大; TST 参数主要对抑郁因子( Depression factorⅡ，29. 00% ) 贡献大; 而 LDB_Latence 参数对抑郁因子亦具有较大载荷，反映了其评价焦虑情绪的不稳定性。"
+				}
+			]
+		},
+		{
+			"ID": "20221027094419-wd6fznq",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027094419-wd6fznq",
+				"updated": "20221027094419"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "3． 2 聚类分析 LDB-TST 原始参数可分 3 类( Fig 1A) : LDB_Ltime% 、LDB_Lcross% 、LDB_Lrear% 、LDB_Latence 为第一类，TST_Immobility% 为第二类，TST_Latence 为第三类。其中，TST_Immobility% 反映了抑郁状态，而 TST_Latence 反映了抗抑郁状态，两者呈负相关，故在聚类分析中未能聚为一 类; 通过适当数据变换后 ( TST _ Latence' = 300 － TST _ La- tence) ，TST_Latence'与 TST_Immobility% 则可聚为一类，即LDB-TST 原始参数经适当数据变换后可分为两类( Fig 1B) : LDB_Ltime% 、LDB_Lcross% 、LDB_Lrear% 、LDB_Latence 为第一类( 焦虑Ⅰ类) ，TST_Immobility% 、TST_Latence'为第二类( 抑郁Ⅱ类) 。"
+				}
+			]
+		},
+		{
+			"ID": "20221027094419-nn9ymni",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027094419-nn9ymni",
+				"updated": "20221027094419"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "3． 3 相关分析"
+				}
+			]
+		},
+		{
+			"ID": "20221027094419-yqj398t",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027094419-yqj398t",
+				"updated": "20221027094419"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "Kolmogorov-Smirnov 正态分布检验提示，所有参数和因子均符合正态分布，故采用 Pearson 相关分析。相关分析提示( Tab 2) : LDB 参数组内具有较好正相关; TST参数组内具有较好负关性; 而 LDB-TST 参数间相关性较差。"
+				}
+			]
+		},
+		{
+			"ID": "20221027094419-kkpau4x",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027094419-kkpau4x",
+				"updated": "20221027094419"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "3． 4"
+				}
+			]
+		},
+		{
+			"ID": "20221027094419-mpfdson",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027094419-mpfdson",
+				"updated": "20221027094419"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "一致性分析( ICC/Kappa)ICC 和 Kappa 参数均提示，反映 LDB 焦虑因子的相关参数与反映 TST 抑郁因子的相关参数评价一致性均较低( Tab 3，Tab 4) 。"
+				}
+			]
+		},
+		{
+			"ID": "20221027094419-g7p44kx",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027094419-g7p44kx",
+				"updated": "20221027094419"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "3． 5 生存分析 Kaplan-Meier plot 提示( Fig 2) : LDB 半数生存期为 25 s，即 50% 动物从 LDB 明区首次进入暗区所需时间为 25 s; TST 半数生存期为 35. 5 s，即 50% 动物从 TST 挣扎到首次绝望不动所需时间为 35. 5 s; Log rank test 提示两者差异无统计学意义。"
+				}
+			]
+		},
+		{
+			"ID": "20221027094419-6sdf4lf",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027094419-6sdf4lf",
+				"updated": "20221027094419"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "4 讨论"
+				}
+			]
+		},
+		{
+			"ID": "20221027094419-y9bf49x",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027094419-y9bf49x",
+				"updated": "20221027094419"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "动物模型是研究疾病发生机制和评价药物效应的有力工具。焦虑与抑郁情绪的基础研究是精神神经药理学研究的前沿和热点。评价焦虑情绪常用的经典模型有旷场实验( open field test，OFT) 、高 架 十 字 迷 宫 ( elevated plus maze， EPM) 、明暗箱实验( light /dark box，LDB) 及自由探索模型free exploratory paradigm，FEP); 评价抑郁情绪常用的经典模型有强迫游泳实验( forced swimming Test，FST) 、悬尾实验( tail suspension test，TST) 和慢性温和应激模型( chronicmild stress，CMS)。"
+				}
+			]
+		},
+		{
+			"ID": "20221027094419-b99y5y3",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027094419-b99y5y3",
+				"updated": "20221027094419"
+			},
+			"Children": [
+				{
+					"Type": "NodeImage",
+					"Data": "span",
+					"Children": [
+						{
+							"Type": "NodeBang"
+						},
+						{
+							"Type": "NodeOpenBracket"
+						},
+						{
+							"Type": "NodeLinkText"
+						},
+						{
+							"Type": "NodeCloseBracket"
+						},
+						{
+							"Type": "NodeOpenParen"
+						},
+						{
+							"Type": "NodeLinkDest",
+							"Data": "https://pic1.zhimg.com/80/v2-0f75560df2be1781ff940fcb3af32f54_720w.webp"
+						},
+						{
+							"Type": "NodeCloseParen"
+						}
+					]
+				},
+				{
+					"Type": "NodeText",
+					"Data": "​"
+				}
+			]
+		},
+		{
+			"ID": "20221027094419-2tywsui",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027094419-2tywsui",
+				"updated": "20221027094419"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "旷场实验箱，型号：XR-XZ301"
+				}
+			]
+		},
+		{
+			"ID": "20221027094419-t9o151x",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027094419-t9o151x",
+				"updated": "20221027094419"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "LDB 是由 Crawley JN 于 1980 年最先提出作为动物模型来评价抗焦虑药物的药理效应，其最初主要通过穿梭次数( LDB_Transition) 来评价啮齿类焦虑情绪。研究发现，LDB_Transition 参数具有习惯化效应，更倾向于评价运动探索行为，而 LDB_Ltime% 、LDB_Lcross% 和 LDB_Lrear% 作为评价动物焦虑情绪更为合理，尤其是 LDB_Ltime% 对于抗焦虑药物具有浓度依赖性。"
+				}
+			]
+		},
+		{
+			"ID": "20221027094419-8zgcp62",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027094419-8zgcp62",
+				"updated": "20221027094419"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "TST 是由于 Steru 等于 1985 年最先提出作为动物模型来评价抗抑郁药物的药理效应，其最初主要通过不动持续时间( Duration of Immobility) 参数来评价啮齿类抑郁情绪( 本研究中为了与LDB参数比较，故将不动持续时间标准化处理为 TST_Immobility% ) 。后续研究也证实首次不动潜伏期( Latence) 作为行为绝望实验的稳定参数，可提高抗抑郁药物活性筛选的效力。"
+				}
+			]
+		},
+		{
+			"ID": "20221027094419-f6h2wnc",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027094419-f6h2wnc",
+				"updated": "20221027094419"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "Andreatini 等通过 EPM 与 FST 评价焦虑与抑郁情绪，发现 EPM 与 TST 并无相关性，且两者评价一致性较差，但 FST 先于 EPM 间隔 1 周进行具有明显致焦虑作用。Du- cottet 等 通过 FEP、EPM、CMS 及 FST 研究发 现，FEP 与 CMS、FST 相关，EPM 与 FST 相关性且对 CMS 易感，提示动物模型焦虑情绪可能对抑郁行为易感。Hinojosa 等 通 过OFT、EPM、FST、TST 评价 Lewis、SHR 及Floripa 不同种属大鼠焦虑与抑郁情绪，因子分析发现焦虑因子( OFT、EPM) 与 抑郁因子( FST) 相关，而 Lewis 与 SHR 大鼠运动活性无差异，但仅 Lewis 大鼠对抗抑郁药物敏感。"
+				}
+			]
+		},
+		{
+			"ID": "20221027094419-31ungqf",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027094419-31ungqf",
+				"updated": "20221027094419"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "本研究因子分析及聚类分析( 适当数据转换后) 均提示， LDB 与 TST 各参数分别反映了焦虑情绪与抑郁情绪; 而 LDB_Latence 参数对焦虑和抑郁因子均有较大贡献，反映了其作为 LDB 焦虑因子维度参数的不稳定性，这与前期研究一致。 相关分析提示，LDB 与 TST 参数组内均具有较好相关性，组间相关性较差; ICC 和 Kappa 统计参数提示，LDB 与 TST 评价焦虑与抑郁情绪一致性较差。"
+				}
+			]
+		},
+		{
+			"ID": "20221027094419-hltpmbf",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027094419-hltpmbf",
+				"updated": "20221027094419"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "LDB_Latence 与 LDB 其他参数呈正相关，反映了动物的 抗焦虑状态，TST_Latence 与 TST_Immobility% 呈负相关，反映了动物的抗抑郁状态; 生存分析提示 LDB 半数动物进入暗区需要的平均时间为 20 s，TST 半数动物进入不动状态所需要的平均时间为 35. 5 s，但是两者差异无统计学意义。"
+				}
+			]
+		},
+		{
+			"ID": "20221027094419-nc0xyu5",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027094419-nc0xyu5",
+				"updated": "20221027094419"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "综上所述: ① LDB 评价动物焦虑情绪的稳定参数是LDB_Ltime% 、LDB_Lcross% 和 LDB_Lrear% ; TST 评价动物抑郁情绪的稳定参数是 TST_Latence 和 TST_Immobility% ; ② 尽管焦虑与抑郁情绪在临床常合并并存，但在动物模型 LDB与 TST 相关性较差; ③ 状态本身具有波动性，而特质具有稳定性; 因此，解决“特质焦虑与状态焦虑动物模型相关性”以及“焦虑与抑郁动物模型相关性”科学问题两个可能的途径: 一是建立新型动物模型及综合评价方法 ( 如 等 级 焦 虑 测 试及三重复合装置) ，二是筛选特质种属实验动物( 如HAB/LAB 种属大鼠) ; ④ 利用单一动物模型、单一维度参数进行药物效应评价，存在效度与异质性等诸多问题; 而多种动物模型联合组成“行为组学”，采用不同结构维度“模式识别”的评价方式将是未来药物筛选的可选之路。"
+				}
+			]
+		}
+	]
+}

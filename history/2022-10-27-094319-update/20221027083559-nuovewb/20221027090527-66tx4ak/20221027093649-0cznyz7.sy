@@ -1,0 +1,442 @@
+{
+	"ID": "20221027093649-0cznyz7",
+	"Spec": "1",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20221027093649-0cznyz7",
+		"scroll": "{\u0026quot;startId\u0026quot;:\u0026quot;20221027093702-neqcuqx\u0026quot;,\u0026quot;endId\u0026quot;:\u0026quot;20221027093649-js2ajf9\u0026quot;,\u0026quot;scrollTop\u0026quot;:0,\u0026quot;focusId\u0026quot;:\u0026quot;20221027093702-to4tffr\u0026quot;,\u0026quot;focusStart\u0026quot;:109,\u0026quot;focusEnd\u0026quot;:109}",
+		"title": "EPM Test",
+		"updated": "20221027093702"
+	},
+	"Children": [
+		{
+			"ID": "20221027093702-neqcuqx",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027093702-neqcuqx",
+				"updated": "20221027093702"
+			},
+			"Children": [
+				{
+					"Type": "NodeTextMark",
+					"TextMarkType": "strong",
+					"TextMarkTextContent": "高架十字迷宫实验方法（elevated plus-maze test, EPM）"
+				}
+			]
+		},
+		{
+			"ID": "20221027093702-gi4w3bh",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027093702-gi4w3bh",
+				"updated": "20221027093702"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "一.实验原理"
+				}
+			]
+		},
+		{
+			"ID": "20221027093702-p9miw6a",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027093702-p9miw6a",
+				"updated": "20221027093702"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "啮齿类动物具有探究新环境的习性，但是又厌恶强光和开阔地。EPM就是利用啮齿类动物对新异环境的探究行为和对高悬着的开臂的恐惧形成的矛盾冲突状态，评价药物的抗焦虑或致焦虑作用。EPM最初是由Montgomery在1955年的工作发展而来的。Pellow等人根据研究需要设计出了具有两个开臂和两个闭臂的十字迷宫，并将迷宫抬高借以增加动物进入开臂时的恐惧。高架十字迷宫是一个简单、快速、结果重复性好的焦虑检测模型，因此广泛应用于抗焦虑药物的研究与开发。"
+				}
+			]
+		},
+		{
+			"ID": "20221027093702-bjbmx4n",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027093702-bjbmx4n",
+				"updated": "20221027093702"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "二.实验装置"
+				}
+			]
+		},
+		{
+			"ID": "20221027093702-n4b37cv",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027093702-n4b37cv",
+				"updated": "20221027093702"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "    高架十字迷宫可以是木质结构，现在多为无味的塑料材质，颜色为黑色。上海欣软信息科技有限公司大鼠高架十字迷宫包括50cm*10cm的两个相对开臂（open arm）和两个50cm*10*40cm的相对闭臂（closed arm），闭臂的上部是敞开的。迷宫中央有一10cm*10cm的开阔部，迷宫距离地面50cm高。迷宫上方安装录像监控器，以录制动物在迷宫中的活动情况，以供日后分析使用。"
+				}
+			]
+		},
+		{
+			"ID": "20221027093702-bwqqgh6",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027093702-bwqqgh6",
+				"updated": "20221027093702"
+			},
+			"Children": [
+				{
+					"Type": "NodeImage",
+					"Data": "span",
+					"Children": [
+						{
+							"Type": "NodeBang"
+						},
+						{
+							"Type": "NodeOpenBracket"
+						},
+						{
+							"Type": "NodeLinkText"
+						},
+						{
+							"Type": "NodeCloseBracket"
+						},
+						{
+							"Type": "NodeOpenParen"
+						},
+						{
+							"Type": "NodeLinkDest",
+							"Data": "https://i0.hdslb.com/bfs/article/825b62c48d87b6f6a26d758ea17e7903cf8151ef.jpg@1178w_1571h_progressive.webp"
+						},
+						{
+							"Type": "NodeCloseParen"
+						}
+					]
+				},
+				{
+					"Type": "NodeText",
+					"Data": "​"
+				}
+			]
+		},
+		{
+			"ID": "20221027093702-0i29xpy",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027093702-0i29xpy",
+				"updated": "20221027093702"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "三.实验方法"
+				}
+			]
+		},
+		{
+			"ID": "20221027093702-mtgta31",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027093702-mtgta31",
+				"updated": "20221027093702"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "1.在实验前一个星期，每天抚摸实验动物1-5min，连续7天，借以消除实验动物对实验者的恐惧。"
+				}
+			]
+		},
+		{
+			"ID": "20221027093702-lw47ei0",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027093702-lw47ei0",
+				"updated": "20221027093702"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "2.将实验动物放入迷宫中央区，头朝开臂，并注意此后每只实验动物均放在同一位置。同时开启摄像监控器记录5min内实验动物开臂和闭臂的进入次数及进入各臂的时间。实验过程中实验者需距离迷宫1米的距离。"
+				}
+			]
+		},
+		{
+			"ID": "20221027093702-70vzjs7",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027093702-70vzjs7",
+				"updated": "20221027093702"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "3.记录结束后将实验动物放回饲养笼具内。同时清理迷宫，并用5%的醋酸水溶液或75%的酒精擦拭迷宫，借以消除动物气味对后继实验动物的影响。"
+				}
+			]
+		},
+		{
+			"ID": "20221027093702-veo4fil",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027093702-veo4fil",
+				"updated": "20221027093702"
+			},
+			"Children": [
+				{
+					"Type": "NodeImage",
+					"Data": "span",
+					"Children": [
+						{
+							"Type": "NodeBang"
+						},
+						{
+							"Type": "NodeOpenBracket"
+						},
+						{
+							"Type": "NodeLinkText"
+						},
+						{
+							"Type": "NodeCloseBracket"
+						},
+						{
+							"Type": "NodeOpenParen"
+						},
+						{
+							"Type": "NodeLinkDest",
+							"Data": "https://i0.hdslb.com/bfs/article/bf02c2f9488879525eda54e8f64d5d877082aeef.jpg@1178w_978h_progressive.webp"
+						},
+						{
+							"Type": "NodeCloseParen"
+						}
+					]
+				},
+				{
+					"Type": "NodeText",
+					"Data": "​"
+				}
+			]
+		},
+		{
+			"ID": "20221027093702-w64wqc0",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027093702-w64wqc0",
+				"updated": "20221027093702"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "四.实验数据"
+				}
+			]
+		},
+		{
+			"ID": "20221027093702-gd4w5vg",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027093702-gd4w5vg",
+				"updated": "20221027093702"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "主要应用的实验数据："
+				}
+			]
+		},
+		{
+			"ID": "20221027093702-5t3yuza",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027093702-5t3yuza",
+				"updated": "20221027093702"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "1.开臂进入次数百分比＝ 开臂进入次数/开臂进入次数＋闭臂进入次数"
+				}
+			]
+		},
+		{
+			"ID": "20221027093702-gwkm9gc",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027093702-gwkm9gc",
+				"updated": "20221027093702"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "2.开臂滞留时间百分比＝ 开臂滞留时间/开臂滞留时间＋闭臂滞留时间"
+				}
+			]
+		},
+		{
+			"ID": "20221027093702-imc2t19",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027093702-imc2t19",
+				"updated": "20221027093702"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "此两指标作为评价焦虑的指标，通常这两个指标高度相关。如果一个药物增加动物对开臂的偏爱（即增加进入开臂的次数和在开臂内滞留时间），却不改变入臂总次数和入臂总时间，也即开臂进入次数百分比和开臂滞留时间百分比升高，则认为该药物具有抗焦虑的作用。相反一个药物如果减少实验动物对开臂的偏爱，而入臂总次数和入臂总时间不变，则认为该药物具有致焦虑的作用。"
+				}
+			]
+		},
+		{
+			"ID": "20221027093702-14gqd8g",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027093702-14gqd8g",
+				"updated": "20221027093702"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "五.注意事项"
+				}
+			]
+		},
+		{
+			"ID": "20221027093702-js0nirf",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027093702-js0nirf",
+				"updated": "20221027093702"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "1.为了提高大鼠入臂总次数，避免大鼠总是躲在闭臂中，通常在测试前先将大鼠放在开阔场地（open field）中适应5min后再放入迷宫。"
+				}
+			]
+		},
+		{
+			"ID": "20221027093702-hmiy4bp",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027093702-hmiy4bp",
+				"updated": "20221027093702"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "2.实验前一周每天抚摸大鼠可以明显减少大鼠对实验者的恐惧感以及无关刺激对迷宫中大鼠的影响。"
+				}
+			]
+		},
+		{
+			"ID": "20221027093702-whc9iks",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027093702-whc9iks",
+				"updated": "20221027093702"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "3.尽管还没有证据证实在一天中不同时间对于实验结果是否有明显的影响。但是结合本人实验的数据建议实验动物检测时间最好在上午9:00至下午15:00之间进行，如果有条件，且需要重复多次检测，尽量在每天同一时间段检测，以减少数据的波动。"
+				}
+			]
+		},
+		{
+			"ID": "20221027093702-a24o3ja",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027093702-a24o3ja",
+				"updated": "20221027093702"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "4.如果实验中实验动物从高架上跌落，最好将此动物剔除。现在的厂家生产的高架十字迷宫在开臂的周边加了一个小边。但这样会改变焦虑的性质和降低抗焦虑药物的敏感性。"
+				}
+			]
+		},
+		{
+			"ID": "20221027093702-6lkp6fy",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027093702-6lkp6fy",
+				"updated": "20221027093702"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "5.高架十字迷宫具有某些表观信度，动物不愿探究迷宫开臂可能由于啮齿类动物厌恶空旷区域和迷宫抬高引起的恐惧两者共同作用的结果，目前尚不清楚这两个因素哪个在致焦虑中占优势。"
+				}
+			]
+		},
+		{
+			"ID": "20221027093702-54n62s9",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027093702-54n62s9",
+				"updated": "20221027093702"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "6.进入开臂的次数和在开臂停留的时间随年龄的增长而减少。因此年龄较大的大鼠抗焦虑的效果较弱，但是对于安定类药物的镇静反应增强。"
+				}
+			]
+		},
+		{
+			"ID": "20221027093702-cpc4p84",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027093702-cpc4p84",
+				"updated": "20221027093702"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "7.高架十字迷宫最初用于雄性大鼠，但是也可用于雌性大鼠。但是所测定的行为有所不同。用雄性大鼠主要测定焦虑，而用雌性大鼠主要测定活动性。"
+				}
+			]
+		},
+		{
+			"ID": "20221027093702-w77ly8r",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027093702-w77ly8r",
+				"updated": "20221027093702"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "8.除了大鼠，高架十字迷宫还用于小鼠，也有文献报道用沙土鼠进行检测，但是存在明显品系差异。"
+				}
+			]
+		},
+		{
+			"ID": "20221027093702-to4tffr",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027093702-to4tffr",
+				"updated": "20221027093702"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "9.迷宫设计时对开臂的相对强光有所考虑。实验中建议高架十字迷宫光源避免直接照射在高架十字迷宫上，也需要避免光线不均匀的照射在各臂上。可在高架十字迷宫周围悬挂具有一定遮光性的布帘造成迷宫的周边环境相对一致以及弱光照环境。"
+				}
+			]
+		},
+		{
+			"ID": "20221027093649-js2ajf9",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027093649-js2ajf9",
+				"updated": "20221027093649"
+			}
+		}
+	]
+}

@@ -1,0 +1,48 @@
+{
+	"ID": "20221027193521-dsurm0e",
+	"Spec": "1",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20221027193521-dsurm0e",
+		"scroll": "{\u0026quot;startId\u0026quot;:\u0026quot;20221027193603-s4jlglu\u0026quot;,\u0026quot;endId\u0026quot;:\u0026quot;20221027193759-c9tcxw3\u0026quot;,\u0026quot;scrollTop\u0026quot;:478,\u0026quot;focusId\u0026quot;:\u0026quot;20221027193759-c9tcxw3\u0026quot;,\u0026quot;focusStart\u0026quot;:0,\u0026quot;focusEnd\u0026quot;:0}",
+		"title": "谷氨酸与抑郁症药物",
+		"updated": "20221027193759"
+	},
+	"Children": [
+		{
+			"ID": "20221027193603-s4jlglu",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027193603-s4jlglu",
+				"updated": "20221027193603"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "氨基酸神经递质系统(GABA和谷氨酸)已成为心境障碍病理生理学研究的主要靶点。有几项研究指出了这些系统的关键作用。一些研究报告了心境障碍患者血浆、血清、脑脊液(CSF)和脑组织中谷氨酸/谷氨酰胺的异常水平。影像学研究一致地检测到，几个关键脑区氨基酸神经递质水平和比例的异常。另一项研究表明，几种NMDAR (NMDAR)拮抗剂具有抗抑郁作用，而传统的抗抑郁治疗方法（如三环类抗抑郁药物，其他单胺类药物，以及电休克疗法）都将NMDAR功能和表达作为最终的共同途径。最后，神经胶质细胞在谷氨酸调节中起着至关重要的作用，包括:(i)通过兴奋性氨基酸转运蛋白清除突触间隙中的谷氨酸；（ii）NMDAR协同激动剂D-丝氨酸的合成和释放；（iii）谷氨酸代谢为谷氨酰胺；(iv)代谢型谷氨酸受体(mGluRs)的表达。"
+				}
+			]
+		},
+		{
+			"ID": "20221027193603-it0mzgm",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027193603-it0mzgm",
+				"updated": "20221027193603"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "在对心境障碍的病理生理学进一步理解的基础上，一系列一致的临床试验证明了氯胺酮的快速抗抑郁作用，以及改进难治性抑郁症的治疗需要。一些制药公司已推出了开发针对氨基酸神经递质系统不同方面的化合物的计划，这些化合物包括非选择性NMDAR拮抗剂、选择性NR2B位点NMDAR拮抗剂、NMDAR的变构调节剂、代谢型谷氨酸受体和AMPA受体的变构调节剂（AMPAR）、谷氨酸清除调节剂以及靶向GABA受体的药物。"
+				}
+			]
+		},
+		{
+			"ID": "20221027193759-c9tcxw3",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027193759-c9tcxw3"
+			}
+		}
+	]
+}

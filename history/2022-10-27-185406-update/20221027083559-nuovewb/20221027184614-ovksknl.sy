@@ -1,0 +1,33 @@
+{
+	"ID": "20221027184614-ovksknl",
+	"Spec": "1",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20221027184614-ovksknl",
+		"title": "数据统计",
+		"updated": "20221027184757"
+	},
+	"Children": [
+		{
+			"ID": "20221027184614-ayfj74u",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027184614-ayfj74u",
+				"updated": "20221027184730"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "采用非参数 Kruskal-Wallis H 检验评估菌株在 VGLUT3 含量和行为测 量方面的差异。VGLUT3 比较采用 Mann- Whitney U 检验+/+ 和 VGLUT3−/−小鼠数据。重复测量方差分析(ANOVA)用于计算可卡因 诱导的运动过度实验中跨时间的差异。在相关性分析中，使用皮尔逊相关系数R2计算，统计显著性阈值设 置为 5%。"
+				}
+			]
+		},
+		{
+			"ID": "20221027184757-ghi7grs",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027184757-ghi7grs"
+			}
+		}
+	]
+}

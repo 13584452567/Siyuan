@@ -1,0 +1,427 @@
+{
+	"ID": "20221027200859-rylk3ao",
+	"Spec": "1",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20221027200859-rylk3ao",
+		"title": "DirectPCR",
+		"updated": "20221027200923"
+	},
+	"Children": [
+		{
+			"ID": "20221027200906-xubvlqt",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027200906-xubvlqt",
+				"updated": "20221027200906"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "直接PCR（Direct PCR）是一种不经核酸提取而直接使用动物或植物组织等直接进行扩增的反应。在许多方面，直接PCR的工作方式类似于常规PCR。"
+				}
+			]
+		},
+		{
+			"ID": "20221027200906-zo6ok4e",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027200906-zo6ok4e",
+				"updated": "20221027200906"
+			},
+			"Children": [
+				{
+					"Type": "NodeTextMark",
+					"TextMarkType": "strong",
+					"TextMarkTextContent": "主要区别是直接PCR中使用的定制缓冲液"
+				},
+				{
+					"Type": "NodeText",
+					"Data": "​"
+				},
+				{
+					"Type": "NodeTextMark",
+					"TextMarkType": "strong",
+					"TextMarkTextContent": "，样本可不经过核酸抽提，直接进行P"
+				},
+				{
+					"Type": "NodeText",
+					"Data": "​"
+				},
+				{
+					"Type": "NodeTextMark",
+					"TextMarkType": "strong",
+					"TextMarkTextContent": "CR"
+				},
+				{
+					"Type": "NodeText",
+					"Data": "​"
+				},
+				{
+					"Type": "NodeTextMark",
+					"TextMarkType": "strong",
+					"TextMarkTextContent": "反应，但对于参与直接P"
+				},
+				{
+					"Type": "NodeText",
+					"Data": "​"
+				},
+				{
+					"Type": "NodeTextMark",
+					"TextMarkType": "strong",
+					"TextMarkTextContent": "CR"
+				},
+				{
+					"Type": "NodeText",
+					"Data": "​"
+				},
+				{
+					"Type": "NodeTextMark",
+					"TextMarkType": "strong",
+					"TextMarkTextContent": "反应的酶的耐受性和buffer的兼容性有相对应的要求"
+				},
+				{
+					"Type": "NodeText",
+					"Data": "。"
+				}
+			]
+		},
+		{
+			"ID": "20221027200906-aoynfu0",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027200906-aoynfu0",
+				"updated": "20221027200906"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "尽管常见的样品中或多或少都会存在PCR抑制剂，但在酶和buffer的作用下直接PCR仍可实现可靠的扩增。"
+				},
+				{
+					"Type": "NodeTextMark",
+					"TextMarkType": "strong",
+					"TextMarkTextContent": "而传统的PCR反应需要以高质量的核酸为模板进行反应，如模板中含有蛋白以及其他杂质"
+				},
+				{
+					"Type": "NodeText",
+					"Data": "​"
+				},
+				{
+					"Type": "NodeTextMark",
+					"TextMarkType": "strong",
+					"TextMarkTextContent": "时就会"
+				},
+				{
+					"Type": "NodeText",
+					"Data": "​"
+				},
+				{
+					"Type": "NodeTextMark",
+					"TextMarkType": "strong",
+					"TextMarkTextContent": "抑制PCR反应的顺利进行。"
+				},
+				{
+					"Type": "NodeText",
+					"Data": "直接PCR是目前分子诊断领域比较热门的技术之一。"
+				}
+			]
+		},
+		{
+			"ID": "20221027200906-avy0tfy",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027200906-avy0tfy",
+				"updated": "20221027200906"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "01"
+				}
+			]
+		},
+		{
+			"ID": "20221027200906-vsc2j0h",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027200906-vsc2j0h",
+				"updated": "20221027200906"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "直接PCR最初用于动植物"
+				}
+			]
+		},
+		{
+			"ID": "20221027200906-pzgnr78",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027200906-pzgnr78",
+				"updated": "20221027200906"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "直接PCR最早应用的领域是动植物领域，比如鼠、猫、鸡、兔、羊、牛等动物的血液、组织和毛发；植物的叶片和种子等，用来研究基因分型、转基因、质粒检测、基因敲除分析、DNA来源鉴定、物种鉴定、SNP分析等领域。"
+				}
+			]
+		},
+		{
+			"ID": "20221027200906-lc3xkrt",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027200906-lc3xkrt",
+				"updated": "20221027200906"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "这些领域有一些共同的特点，那就是目标基因的含量比较高，核酸提取麻烦，所以直接PCR不仅能够节省时间，对结果的影响很小，同时也能节省成本。"
+				}
+			]
+		},
+		{
+			"ID": "20221027200906-iivxps4",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027200906-iivxps4",
+				"updated": "20221027200906"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "直接PCR用于病原体检测，是近几年的事，部分PCR试剂厂商在做创新的时候朝着这个方向做了很多的努力，尤其是这次新冠疫情，市场上出现了很多这样的检测产品！"
+				}
+			]
+		},
+		{
+			"ID": "20221027200906-dtfu1uq",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027200906-dtfu1uq",
+				"updated": "20221027200906"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "02"
+				}
+			]
+		},
+		{
+			"ID": "20221027200906-erb8f4c",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027200906-erb8f4c",
+				"updated": "20221027200906"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "直接PCR需要的试剂"
+				}
+			]
+		},
+		{
+			"ID": "20221027200906-ln6m8ts",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027200906-ln6m8ts",
+				"updated": "20221027200906"
+			},
+			"Children": [
+				{
+					"Type": "NodeTextMark",
+					"TextMarkType": "strong",
+					"TextMarkTextContent": "样本裂解液"
+				}
+			]
+		},
+		{
+			"ID": "20221027200906-tturb13",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027200906-tturb13",
+				"updated": "20221027200906"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "样本裂解液可以自己配置，也可以购置。不同品牌裂解液组份的差异会使得裂解能力各有不同，进而裂解时间稍有差异。比如说动物组织样本制备，一般推荐30min或过夜裂解，针对病毒类的裂解液在3-10min不等。"
+				}
+			]
+		},
+		{
+			"ID": "20221027200906-cmnvmaw",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027200906-cmnvmaw",
+				"updated": "20221027200906"
+			},
+			"Children": [
+				{
+					"Type": "NodeTextMark",
+					"TextMarkType": "strong",
+					"TextMarkTextContent": "PCR master mix"
+				}
+			]
+		},
+		{
+			"ID": "20221027200906-w8xj43p",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027200906-w8xj43p",
+				"updated": "20221027200906"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "建议使用热启动DNA聚合酶，增强特异性扩增，扩增能力也更强。"
+				},
+				{
+					"Type": "NodeTextMark",
+					"TextMarkType": "strong",
+					"TextMarkTextContent": "直接PCR的核心就是具有高度耐受的聚合酶。"
+				}
+			]
+		},
+		{
+			"ID": "20221027200906-g75hjr3",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027200906-g75hjr3",
+				"updated": "20221027200906"
+			},
+			"Children": [
+				{
+					"Type": "NodeTextMark",
+					"TextMarkType": "strong",
+					"TextMarkTextContent": "清除或抑制样本中影响DNA扩增的组份"
+				}
+			]
+		},
+		{
+			"ID": "20221027200906-x2ah88f",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027200906-x2ah88f",
+				"updated": "20221027200906"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "样本在经过裂解液处理之后，会释放出蛋白质、脂质和其他细胞碎片，这些物质会抑制PCR反应，因此直接PCR需要加入相应的清除或者抑制剂来减弱这部分因素的影响。"
+				}
+			]
+		},
+		{
+			"ID": "20221027200906-1qvgqeg",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027200906-1qvgqeg",
+				"updated": "20221027200906"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "03"
+				}
+			]
+		},
+		{
+			"ID": "20221027200906-yszhcoc",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027200906-yszhcoc",
+				"updated": "20221027200906"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "第一、Direct PCR技术是针对各类生物样品的直接PCR技术。该技术条件下，无需对核酸进行分离提取，直接以组织样本为对象，加入目标基因引物进行PCR反应。"
+				}
+			]
+		},
+		{
+			"ID": "20221027200906-yguqxy6",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027200906-yguqxy6",
+				"updated": "20221027200906"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "第二、Direct PCR技术不仅仅是传统的DNA模版的扩增技术，也包含RNA模版的逆转录PCR。"
+				}
+			]
+		},
+		{
+			"ID": "20221027200906-7xzjy3y",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027200906-7xzjy3y",
+				"updated": "20221027200906"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "第三、Direct PCR技术不仅仅是直接对组织样本进行常规定性PCR反应，还包括Real-Time qPCR反应，这就要求反应体系具备极强的抗背景荧光干扰能力以及对内源性荧光淬灭剂的拮抗能力。"
+				}
+			]
+		},
+		{
+			"ID": "20221027200906-3jedf85",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027200906-3jedf85",
+				"updated": "20221027200906"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "第四、Direct PCR技术针对的样本，只需要核酸模版的释放，并不对干扰PCR反应的蛋白、多糖、盐离子等进行去除，这要求反应体系中的核酸聚合酶和PCR Mix具有极佳的抗逆性和适应性，能够在复杂的条件下保证酶活性和复制准确性。"
+				}
+			]
+		},
+		{
+			"ID": "20221027200906-1zggyq6",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027200906-1zggyq6",
+				"updated": "20221027200906"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "第五、Direct PCR技术针对的组织样品未经任何核酸富集处理，模版量极少，这就要求反应体系有极高的灵敏度和扩增效率"
+				}
+			]
+		},
+		{
+			"ID": "20221027200906-mkyxs8p",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027200906-mkyxs8p",
+				"updated": "20221027200923"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "作者：基因谷\n链接：https://xueqiu.com/1912517390/182837231\n来源：雪球"
+				}
+			]
+		},
+		{
+			"ID": "20221027200859-4u19fji",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221027200859-4u19fji",
+				"updated": "20221027200859"
+			}
+		}
+	]
+}
